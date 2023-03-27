@@ -25,7 +25,7 @@ class RequestFeatures(BaseModel):
     villa: int
 
 
-with open('model.joblib', 'rb') as f:
+with open('../model.joblib', 'rb') as f:
     model = joblib.load(f)
 
 
