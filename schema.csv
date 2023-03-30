@@ -1,0 +1,4160 @@
+feature_name,original_value,encoded_value
+layout_type,BHK,0
+layout_type,RK,1
+furnish_type,Furnished,0
+furnish_type,Semi-Furnished,1
+furnish_type,Unfurnished,2
+city,Ahmedabad,0
+city,Bangalore,1
+city,Chennai,2
+city,Delhi,3
+city,Hyderabad,4
+city,Kolkata,5
+city,Mumbai,6
+city,Pune,7
+locality,Bodakdev,567
+locality,CG Road,633
+locality,Jodhpur,1481
+locality,Sanand,3053
+locality,Navrangpura,2433
+locality,Vejalpur,3820
+locality,Jivraj Park,1479
+locality,Nikol,2524
+locality,Shahibuag,3335
+locality,Maninagar,2125
+locality,Ghatlodiya,1104
+locality,Shilaj,3383
+locality,Saijpur Bogha,3022
+locality,Jodhpur Village,1485
+locality,Vastrapur,3805
+locality,Satellite,3119
+locality,Chandkheda,673
+locality,Bopal,588
+locality,Prahlad Nagar,2759
+locality,Vasna,3803
+locality,Shela,3369
+locality,Makarba,2073
+locality,Khokhra,1750
+locality,Ghuma,1116
+locality,Ghodsar,1111
+locality,Memnagar,2210
+locality,Nehru Nagar,2459
+locality,Keshav Nagar,1714
+locality,Near Nirma University On SG Highway,2446
+locality,Science City,3132
+locality,Thaltej,3617
+locality,Naranpuraa,2391
+locality,Jagatpur,1409
+locality,Motera,2265
+locality,Ambavadi,139
+locality,Shrinand Nagar,3415
+locality,Satlasana,3126
+locality,Near Vaishno Devi Circle On SG Highway,2447
+locality,Paldi,2612
+locality,Juhapura,1500
+locality,Moraiya,2261
+locality,Gota,1148
+locality,Vatva,3808
+locality,Godhavi,1123
+locality,Ambli,151
+locality,Ranip,2914
+locality,Zundal,4012
+locality,Sola,3459
+locality,Narol,2414
+locality,Ellisbridge,1009
+locality,Naryanpura,2417
+locality,Gurukul,1207
+locality,Narolgam,2415
+locality,Usman Pura,3730
+locality,Nana Chiloda,2373
+locality,Sanathal,3057
+locality,Khodiar Nagar,1748
+locality,Anand Nagar,172
+locality,Satellite Society,3122
+locality,Isanpur,1371
+locality,Ramdev Nagar,2900
+locality,New Ranip,2509
+locality,Manipur,2127
+locality,Nava Vadaj,2422
+locality,Chanakyapuri,660
+locality,Khodiyar,1749
+locality,Chharodi,711
+locality,Santej,3075
+locality,Dani Limda,825
+locality,Koteshwar,1842
+locality,Mithakhali,2238
+locality,Law Garden,1943
+locality,Sarkhej,3101
+locality,Kudasan,1875
+locality,Ayojan Nagar,270
+locality,Adraj,83
+locality,Sarkhej Okaf,3102
+locality,Khanpur,1728
+locality,Old Wadaj,2568
+locality,Chekhla,693
+locality,Hatkeshwar,1266
+locality,Santipura,3079
+locality,Tragad,3689
+locality,Mumatpura,2293
+locality,Rambaug,2898
+locality,Bhadaj,480
+locality,Ognaj,2551
+locality,Asarwa,234
+locality,Shahibaug,3333
+locality,Odhav,2545
+locality,Kankaria,1633
+locality,Gulbai Tekra,1188
+locality,shastri Nagar,4123
+locality,Hathijan,1265
+locality,Chharodi Ahmedabad West,712
+locality,Chandlodia,674
+locality,Sola Village,3460
+locality,Shantipura,3359
+locality,Nava Naroda,2421
+locality,Nirnay Nagar,2530
+locality,Bhat,502
+locality,Sughad,3527
+locality,Ambawadi Circle,140
+locality,Neww CG Road,2518
+locality,Hirabaug Railway Crossing Road,1295
+locality,New C G Road,2490
+locality,Thaltej Shilaj Road,3618
+locality,New cg road,2516
+locality,Bhudarpura Road,524
+locality,Vaishnodevi,3758
+locality,Vishala,3906
+locality,Nigam Nagar,2519
+locality,South Bopal,3476
+locality,Changodar,681
+locality,Judges Bungalow Cross Road,1499
+locality,New Maninagar,2502
+locality,new c g road chandkheda,4106
+locality,Sabarmati,2990
+locality,Motera Stadium Road,2266
+locality,Narayan Nagar,2393
+locality,Vejalpur Gam,3821
+locality,Shyamal Cross Road,3418
+locality,Sanand Sarkhej Road,3054
+locality,Koteshwar Bhat Road,1843
+locality,Bodakdev Road,568
+locality,Narmada Canal,2412
+locality,Satellite Road,3121
+locality,Subhash Bridge,3518
+locality,Sarkhej Road,3103
+locality,Zundal Circle,4013
+locality,S G Highway,2972
+locality,Airport Road,101
+locality,Gandhi Nagar,1061
+locality,GotaOgnaj Road,1149
+locality,Shahibaug Flyover,3334
+locality,Azad Society Road,274
+locality,Vijay Cross Roads,3860
+locality,Bapunagar,409
+locality,Bhagwat Vidyapith Road,483
+locality,gota SG higway,4047
+locality,Gurukul Road,1208
+locality,Manekbaugh,2111
+locality,Sindhubhavan Road,3434
+locality,Virat Nagar Road,3899
+locality,Prahlad Nagar Road,2760
+locality,Khamasa,1725
+locality,Kuber Nagar,1873
+locality,Shahibagh,3332
+locality,SG Highway Service Road,2980
+locality,Ashram Road,239
+locality,Bhattapaldi,505
+locality,Satellite Extension,3120
+locality,Shivranjani Cross Road,3406
+locality,J 18 TP 44 chandkheda,1379
+locality,Sachana,2993
+locality,Maninagar East,2126
+locality,Vastral,3804
+locality,Wadaj,3927
+locality,Sardar Patel Ring Road,3093
+locality,NIgam Society,2329
+locality,Chandlodiya Road,676
+locality,Naranpura Road,2390
+locality,Ghatlodia Road,1103
+locality,SAL Hospital,2974
+locality,Prerna Tirth Road,2770
+locality,ISCON Cross Road,1340
+locality,Chandlodiya,675
+locality,Khokhra Circle,1751
+locality,Shahpur,3336
+locality,Ambli Bopal Road,152
+locality,Hebatpur,1271
+locality,Amraiwadi,161
+locality,South Bopal Road,3477
+locality,Naroda,2413
+locality,kolat,4079
+locality,Ghatlodia,1102
+locality,Ambapur,134
+locality,Drive in Rd,943
+locality,Parimal Garden,2654
+locality,Drive In Cinema Road,942
+locality,Hansol,1242
+locality,Zydus Hospital Road,4014
+locality,Ghoda Camp Road,1107
+locality,Bavla,433
+locality,Navrang Circle,2432
+locality,Koteshwar Road,1844
+locality,Anjali Cross Road,198
+locality,India Colony,1354
+locality,Thakkarbapa Nagar,3608
+locality,Visalpur,3902
+locality,Chaloda,656
+locality,Kiran Park Road,1757
+locality,Vinzol,3894
+locality,Meghani Nagar,2207
+locality,Kalupur,1580
+locality,Ghuma Bopal Road,1117
+locality,Ahmedabad Cantonment,94
+locality,Kathwada,1684
+locality,Khanderavpura,1727
+locality,Jashoda Nagar,1447
+locality,Jodhpur Cross Road,1482
+locality,shyamal,4124
+locality,kamakshipalya,4069
+locality,Kadugodi Industrial Area,1544
+locality,Koramangala,1832
+locality,Sadduguntepalya,2999
+locality,Chandapura,669
+locality,Yelahanka New Town,3995
+locality,Bommanahalli,578
+locality,Kengeri Satellite Town,1713
+locality,T Dasarahalli,3565
+locality,Attibele,247
+locality,Kasavanahalli,1669
+locality,Nandini Layout,2382
+locality,Bharat Nagar,494
+locality,Kodihalli on Old Airport Road,1781
+locality,Hebbal,1272
+locality,Whitefield Hope Farm Junction,3976
+locality,Banaswadi,375
+locality,Whitefield,3974
+locality,Kogilu,1787
+locality,Hennur,1280
+locality,hongasandra bangalore,4055
+locality,Banashankari,366
+locality,Krishnarajapura,1872
+locality,Indira Nagar,1357
+locality,Harlur,1257
+locality,J. P. Nagar,1383
+locality,Begur,445
+locality,BTM Layout,299
+locality,Basavanagudi,423
+locality,Padmanabhanagar,2595
+locality,Kadugodi,1543
+locality,Rajajinagar,2860
+locality,Bagalakunte,317
+locality,Vidyaranyapura,3852
+locality,Vibhutipura,3845
+locality,Electronic City Phase 1,1000
+locality,Kaggadasapura,1546
+locality,Kannur,1640
+locality,Bendre Nagar,470
+locality,Mathikere,2180
+locality,Munnekollal,2310
+locality,Electronic City Phase II,1002
+locality,JP Nagar Phase 4,1391
+locality,HBR Layout,1214
+locality,Gnana bharathi,1122
+locality,Maruthi Sevanagar,2174
+locality,Uttarahalli Hobli,3740
+locality,Ejipura,991
+locality,R T  Nagar,2814
+locality,Thanisandra,3626
+locality,Jalahalli,1424
+locality,Frazer Town,1033
+locality,Brookefield,610
+locality,Murugeshpalya,2315
+locality,Amrutahalli,164
+locality,CV Raman Nagar,637
+locality,Jakkur,1422
+locality,Richmond Town,2948
+locality,Konanakunte,1810
+locality,hebbal kempapura,4051
+locality,Varthur,3784
+locality,Varadharaja Nagar,3777
+locality,RR Nagar,2825
+locality,Kalyan Nagar,1585
+locality,Doddathoguru,926
+locality,Cooke Town,786
+locality,Nagarbhavi,2343
+locality,Bilekahalli,541
+locality,HAL,1213
+locality,Abbigere,58
+locality,Yemalur,3998
+locality,Kengeri,1711
+locality,Budigere Cross,617
+locality,Lingarajapuram,1956
+locality,Cox Town,789
+locality,Kammanahalli,1606
+locality,Benson Town,473
+locality,Koralur,1831
+locality,Rayasandra,2931
+locality,Ganganagar,1068
+locality,Chandra Layout Extension,679
+locality,Ramamurthy Nagar,2890
+locality,Subramanyapura,3521
+locality,Sarjapur Road Wipro To Railway Crossing,3099
+locality,JP Nagar Phase 7,1394
+locality,HSR Layout,1221
+locality,Kaval Byrasandra,1698
+locality,Hoodi,1302
+locality,Domlur,933
+locality,JP Nagar Phase 6,1393
+locality,NRI Layout,2331
+locality,Kumbalgodu,1889
+locality,Marathahalli,2154
+locality,Kodigehalli,1778
+locality,Yeshwantpur,4002
+locality,Arakere,222
+locality,Electronic City Phase 2,1001
+locality,Devinagar,876
+locality,Akshayanagar,109
+locality,Kartik Nagar,1661
+locality,Sarjapur Road Till Wipro,3098
+locality,Basaveswarnagar,427
+locality,Marsur,2165
+locality,Kumaraswamy Layout,1886
+locality,Horamavu,1305
+locality,Sarvagnanagar,3109
+locality,Nelamangala,2464
+locality,Jayanagar,1459
+locality,Doddanekundi,925
+locality,Kasturi Nagar,1678
+locality,Byrathi,627
+locality,Uttarahalli,3739
+locality,Nagondanahalli,2354
+locality,Mahadevapura,2034
+locality,Mahadev pura,2033
+locality,JP Nagar Phase 9,1396
+locality,Bellandur,466
+locality,Shanti Nagar,3355
+locality,Nagawara,2348
+locality,Nagasandra,2345
+locality,Sanjay Nagar,3063
+locality,Banashankari 6th Stage 6th Block,368
+locality,Annapurneshwari Nagar,210
+locality,Domlur Layout,935
+locality,Nagenahalli,2350
+locality,Hampapura,1237
+locality,Electronics City,1003
+locality,Dasarahalli on Tumkur Road,832
+locality,Muneshwara Nagar,2304
+locality,Kithaganur Colony,1769
+locality,Doddakannelli,924
+locality,Kodathi,1774
+locality,Carmelaram,642
+locality,Silk Board,3429
+locality,Sahakar Nagar,3009
+locality,Ulsoor,3708
+locality,Kadubeesanahalli,1542
+locality,Mavalli,2186
+locality,Lingadheeranahalli,1953
+locality,Avalahalli Off Sarjapur Road,259
+locality,Hulimavu,1321
+locality,Devarachikkana Halli,870
+locality,Medahalli,2196
+locality,Sir M V Nagar,3445
+locality,Singasandra,3436
+locality,Hosa Road,1306
+locality,Dasarahalli,830
+locality,Chinnapanna Halli,745
+locality,Sanjaynagar,3065
+locality,GB Palya,1042
+locality,Kadugondanahalli,1545
+locality,Chikkabettahalli,725
+locality,Khajisonnanahalli,1722
+locality,Doddabommasandra,921
+locality,Choodasandra,762
+locality,Kuvempu Layout on Hennur Main Road,1910
+locality,New Thippasandra,2513
+locality,Attiguppe,249
+locality,Kudlu Gate,1879
+locality,Bommenahalli,582
+locality,Prakruthi Township,2763
+locality,BTM 1st Stage,296
+locality,ITPL,1344
+locality,Nagavara,2346
+locality,Harohalli,1260
+locality,KPC Layout,1524
+locality,Vinayaka Layout Road,3889
+locality,Yelahanka Satellite Town,3996
+locality,Chikballapur,718
+locality,Ashok Nagar,235
+locality,Halanayakanahalli,1232
+locality,Bannerghatta,398
+locality,RT Nager,2829
+locality,Jogupalya,1489
+locality,Jeevan Bima Nagar,1469
+locality,Vignana Kendra,3853
+locality,Kodihalli,1780
+locality,Bennigana Halli,472
+locality,Kannamangala,1637
+locality,Wilson Garden,3978
+locality,Yelahanka,3994
+locality,Bagaluru Near Yelahanka,320
+locality,Narayanapura on Hennur Main Road,2400
+locality,Amruthahalli,165
+locality,Kaikondrahalli,1549
+locality,Murugesh Palya,2314
+locality,Vimanapura,3885
+locality,Rustam bagh Layout,2969
+locality,Kanakapura,1616
+locality,Bangalore City Municipal Corporation Layout,389
+locality,byatarayanapura,4025
+locality,Seshadripuram,3317
+locality,Bettadasapura,476
+locality,Bhoganhalli,516
+locality,Jigani,1475
+locality,Gottigere,1150
+locality,Reliaable Tranquil Layout,2940
+locality,BTM Layout 2nd Stage,300
+locality,Ramagondanahalli,2888
+locality,Anagalapura Near Hennur Main Road,167
+locality,JP Nagar Phase 1,1389
+locality,Malleswaram,2093
+locality,Kanakapura Road Beyond Nice Ring Road,1617
+locality,Vijayanagar,3867
+locality,Sai Baba Ashram,3016
+locality,Chansandra,683
+locality,Kalkere,1575
+locality,Devanahalli,868
+locality,Sanjeevini Nagar,3067
+locality,Ramanashree California Gardens Layout,2891
+locality,Virupakshapura,3901
+locality,judicial layout,4060
+locality,Sampangiram Nagar,3049
+locality,Balaji Layout,340
+locality,Sarjapur,3095
+locality,Dwarka Nagar,960
+locality,Doddakammanahalli,922
+locality,Panduranga Nagar,2640
+locality,Bagaluru,319
+locality,Kudlu,1878
+locality,Dodda Banaswadi,916
+locality,Mallathahalli,2091
+locality,Vasanth Nagar,3795
+locality,Richards Town,2946
+locality,Chikkalasandra,729
+locality,Volagerekallahalli,3924
+locality,Hosur,1313
+locality,Kannur on Thanisandra Main Road,1641
+locality,Panathur,2627
+locality,Balagere,338
+locality,Basapura,421
+locality,Chokkanahalli,758
+locality,Meenakshi Layout,2202
+locality,Kempe Gowda Nagar,1707
+locality,Talaghattapura,3576
+locality,Chikkagubbi on Hennur Main Road,727
+locality,Parappana Agrahara,2651
+locality,Vittasandra,3916
+locality,JP Nagar Phase 8,1395
+locality,Bommasandra,579
+locality,Battarahalli,431
+locality,5th Phase,30
+locality,Mallasandra,2089
+locality,Margondanahalli,2156
+locality,Devara Jeevanahalli,869
+locality,Jyotipuram,1511
+locality,Tirumanahalli,3673
+locality,R.K. Hegde Nagar,2816
+locality,Hulimangala,1319
+locality,Shingapura,3390
+locality,Kvalasanahalli,1911
+locality,Narayanapura Hennur Main Road,2399
+locality,Agara,88
+locality,Kaggalipura,1547
+locality,Jnana Ganga Nagar,1480
+locality,Kothanur,1846
+locality,Mailasandra,2065
+locality,Agrahara Layout,92
+locality,Sarjapur Road Post Railway Crossing,3097
+locality,Tejaswini Nagar,3597
+locality,Jaya Chamarajendra Nagar,1456
+locality,Sampigehalli,3050
+locality,RMV Extension Stage 2,2823
+locality,Anantapura,182
+locality,Mallasandra Hoskote,2090
+locality,RMV,2821
+locality,Varanasi,3781
+locality,K C Krishna Reddy Layout,1512
+locality,Maraganahalli,2149
+locality,Dooravani Nagar,938
+locality,Challaghatta,655
+locality,Kuthaganahalli,1907
+locality,Adugodi,84
+locality,Mangammanapalya,2115
+locality,Armane Nagar,230
+locality,2nd Phase,22
+locality,Sivanchetti Gardens,3451
+locality,Nagapura,2338
+locality,Gudighattanahalli,1179
+locality,Kamala Nagar,1594
+locality,Yeshwanthpur,4001
+locality,Mahalakshmi Layout,2037
+locality,Maruthi Nagar,2171
+locality,Thurahalli,3654
+locality,Koti Hosahalli,1852
+locality,Chamrajpet,658
+locality,Sector 3 HSR Layout,3212
+locality,Pattandur Agrahara Road,2683
+locality,kaggadaspura,4066
+locality,Nallurhalli Whitefield,2371
+locality,OMBR Layout,2542
+locality,Rammurthi Nagar,2907
+locality,Devarachikkanahalli,871
+locality,Neeladri Nagar Bengaluru,2451
+locality,SARJAPURA ROAD,2975
+locality,Nagappa Reddy Layout Main Road,2337
+locality,Kodichikkenahalli,1777
+locality,Garudachar Palya Mahadevapura,1080
+locality,Channasandra,682
+locality,Maithri Layout Kadugodi,2067
+locality,hunnur,4057
+locality,HSR layout,1224
+locality,Somasundarapalya,3465
+locality,Hosapalaya Garvebhavi Palya,1310
+locality,gubbalala,4049
+locality,Rachenahalli,2834
+locality,Suddaguntepalya,3525
+locality,Srirampuram,3505
+locality,Bannerughatta,400
+locality,Amruthahalli Main Road,166
+locality,hosa road junction electronics city,4056
+locality,somsundrapalya bangalore,4127
+locality,Gunjur Palaya,1197
+locality,Kodipalya,1782
+locality,Kammmanhalli,1608
+locality,Lavelle Road,1941
+locality,Anjanapura Township,200
+locality,Hoodi Main Road,1303
+locality,rajaji nagar,4118
+locality,Anekal City,196
+locality,B Channasandra Kasturi Nagar,280
+locality,Seva Nagar,3318
+locality,Kanaka Nagar Main Road,1614
+locality,Belathur On Sarjapur Bagalur Road,457
+locality,Sarjapur main road,3100
+locality,Palace Road,2605
+locality,Kodichikkanahalli,1776
+locality,St. Marks Road,3512
+locality,Sadashiva Nagar,2997
+locality,Binnipete,544
+locality,Chellikere,695
+locality,Haralur Roadd,1248
+locality,Muneshwara Block,2303
+locality,State Bank Of India Colony,3515
+locality,R R NAGAR,2813
+locality,Cunningham Road,793
+locality,MG Road,1984
+locality,Chikkathogur Main Rd,733
+locality,Belathur,454
+locality,MS Palya Road,1991
+locality,Jayanagar 4th T Block East,1461
+locality,Basaveshwaranagar,426
+locality,Begur Road,446
+locality,Victoria Layout,3848
+locality,Srinivasa Nagar,3497
+locality,Bangalore,388
+locality,Choodasandra Road,763
+locality,Srinagar,3494
+locality,Thubarahalli,3652
+locality,Nagavara Village,2347
+locality,Banashankari Stage 2nd,370
+locality,Indiranagar,1359
+locality,Kalidasa Layout,1565
+locality,Dommasandra Village,936
+locality,Jalahalli West,1426
+locality,Mathikere Extension,2181
+locality,Nayandahalli,2440
+locality,Domlur II Stage,934
+locality,Herohalli,1285
+locality,Manyata Tech Park Road,2146
+locality,MC Layout,1979
+locality,Nagarathpet,2342
+locality,Doddabidrakallu,920
+locality,HSR Layout Silk Board,1223
+locality,Sahakara Nagar,3011
+locality,RK Hegde Nagar Bangalore,2819
+locality,Kacharakanahalli,1533
+locality,Palace Guttahalli,2604
+locality,5th Phase JP Nagar,31
+locality,Adakamaranahalli,69
+locality,Chikbanavara,719
+locality,Guniagrahara,1195
+locality,Chikkanayakanahalli at Off Sarjapur,731
+locality,Junnasandra,1509
+locality,Gunjur,1196
+locality,Andrahalli,193
+locality,BTM 2nd Stage,297
+locality,Belathur Kadugodi,455
+locality,Hesaraghatta,1286
+locality,K Channasandra Main Road,1514
+locality,Begur Woods Layout,447
+locality,Sudhama Nagar,3526
+locality,Shivaji Nagar,3396
+locality,Madanayakahalli,2000
+locality,Neelasandra,2455
+locality,KR Puram Old Madras Road,1527
+locality,Akshayanagara East,110
+locality,5th Block,29
+locality,RMV 2nd Stage,2822
+locality,Bannerghatta Road Bannerughatta,399
+locality,Hanumanthanagar Bangalore,1244
+locality,Jigala,1474
+locality,Gandhi Bazar,1060
+locality,Dommsandra,937
+locality,Cottonpet,788
+locality,Jayamahal,1458
+locality,Malur,2095
+locality,K Channasandra,1513
+locality,Doddaballapur,918
+locality,Kathriguppe,1682
+locality,Hegde Nagar,1274
+locality,Kundalahalli,1893
+locality,Richmond Road,2947
+locality,Sadananda Nagar,2994
+locality,Yeshwantpur Village,4003
+locality,Guddadahalli,1178
+locality,Off Bannerghatta Road,2546
+locality,Tunganagara,3701
+locality,HSR LAYOUT 2ND SECTOR,1220
+locality,Kr Puram Seegehalli,1865
+locality,HRBR Layout,1218
+locality,Classic Paradise Layout,777
+locality,Shikaripalya,3379
+locality,Pai Layout,2601
+locality,Muddanahalli,2273
+locality,Belathur Main Road,456
+locality,Manyata Tech Park Nagawara,2145
+locality,Suryanagar Phase I,3553
+locality,Sulikunte,3533
+locality,Deepanjali Nagar,846
+locality,Hoskote,1312
+locality,Jalahalli East,1425
+locality,Kalasipalya,1557
+locality,Narayanaghatta,2397
+locality,Hunasamaranahalli,1324
+locality,Mullur,2285
+locality,Tigalarapalya,3656
+locality,Avalahalli,258
+locality,Raghavendra Colony,2842
+locality,Sunkadakatte,3543
+locality,Kathriguppe Banashankari 3rd Stage,1683
+locality,K.G Govindapura,1517
+locality,Konappana Agrahara,1811
+locality,RT Nagar Main Road,2828
+locality,Kodipur,1783
+locality,Bagalur,318
+locality,Mylasandra,2321
+locality,Kempapura Agrahara,1706
+locality,Raja Rajeshwari Nagar 5th Stage,2857
+locality,Bommasandra Industrial Area,580
+locality,Tippenahalli,3669
+locality,Bedarahalli,435
+locality,Bharti Nagar,501
+locality,Godrej Woodsman Estate,1125
+locality,Shantipura Main,3360
+locality,Anchepalya Tumkur Road,185
+locality,Kempegowdanagar,1709
+locality,9th Block Jayanagar,44
+locality,Jakkasandra Extension,1420
+locality,Electronic City Flyover,999
+locality,Belur Nagasandra,469
+locality,Singasandra AECS B Block,3437
+locality,Hulimangala Road,1320
+locality,Neeladri Road,2452
+locality,Upkar Layout,3718
+locality,Jayanagar LIC Colony,1463
+locality,Maruthi Layout,2170
+locality,Valliyamma Layout,3766
+locality,Anjanapura,199
+locality,Wilson Garden Society,3979
+locality,JP Nagar Phase 5,1392
+locality,Basavanapura,424
+locality,"Reliable Residency Layout, Phase 3",2941
+locality,Syndicate Bank Colony Bangalore,3564
+locality,Neo Town Electronics City Pha,2469
+locality,25th B Main Rd,17
+locality,Sanchar Nagar MCECHS Layout,3058
+locality,John Avenue Private Road,1490
+locality,Sanchar Nagar MCECHS Layout Bengaluru,3059
+locality,KSFC Layout,1528
+locality,KNSS colony,1522
+locality,Hennur Rd,1282
+locality,Ashwini Layout,242
+locality,Narayana Reddy Layout Bangalore,2396
+locality,Excise Layout,1020
+locality,Hosapalaya Main Road,1311
+locality,Borewell Road,594
+locality,Jedara Halli,1467
+locality,1st stage,12
+locality,Somashetti Halli,3463
+locality,Maruthi Nagar Madivala,2172
+locality,3rd Block HBR Layout,24
+locality,Veerasandra Main Road,3818
+locality,Gunjur Palya road,1198
+locality,Narayanapura,2398
+locality,1st Phase JP Nagar,10
+locality,Bellahalli,465
+locality,Neo Whitefield,2470
+locality,Ashraya Layout Bangalore,240
+locality,Lake View Layout Road,1929
+locality,Munneshwara Layout,2311
+locality,"Maruthi Nagar, Madivala",2173
+locality,Nagendra Block Bangalore,2351
+locality,Millers Road,2229
+locality,Karumariamman Road,1662
+locality,Nagareshwara   Nagenahalli,2344
+locality,Shakthi Nagar,3341
+locality,chokkanahalli Main Road,4030
+locality,ITI Layout Main Road,1342
+locality,Coles Road,780
+locality,Telecom Layout,3599
+locality,Ambedkar Nagar,141
+locality,Somasundara Palya,3464
+locality,Hosakerehalli,1309
+locality,Kempegowda Nagar,1708
+locality,Kumaraswamy Layout I Stage,1887
+locality,Ranka Colony,2917
+locality,Banashankari II Stage,369
+locality,1st Block Jayanagar,8
+locality,HSR Layout 2nd sector Banglor,1222
+locality,Kadirenahalli,1541
+locality,Banashankari Stage II,372
+locality,Sarakki Nagar 1st Phase,3088
+locality,8th Block Jayanagar,41
+locality,Jayanagar 3rd Block East,1460
+locality,Yediyur,3992
+locality,East End A Main Road,974
+locality,MG Layout,1983
+locality,Chikkanagamangala Road,730
+locality,Kasavanhalli,1670
+locality,Immadihalli Main Road,1351
+locality,2nd Block HRBR Layout Bangalore,21
+locality,C S B Layout,630
+locality,RK Township,2820
+locality,Kudlu Main Road,1880
+locality,Shirdi Sai Nagar Bangalore,3391
+locality,Laxminarayana Layout,1951
+locality,MLA Layout Main Road,1989
+locality,Defence Colony Shakara Nagar,850
+locality,Maruthi HBCS Layout,2169
+locality,Sri Krishna Layout,3488
+locality,Anand Gokul Layout,169
+locality,Wellington Paradise,3956
+locality,Hennuru,1284
+locality,Neeladri Road Neeladri Nagar,2453
+locality,Koramangala 7th Block,1835
+locality,Junior College Road,1507
+locality,Abbaiah Reddy Layout Road,57
+locality,Stage 1,3513
+locality,Bollahalli,575
+locality,Hemmigepura,1278
+locality,Hanuman Nagar,1243
+locality,Arkavathy Layout,229
+locality,Mico Layout,2222
+locality,Basavanna Nagar Main,425
+locality,Sector 5 HSR Layout,3229
+locality,Pushpagiri Nagar,2799
+locality,Giri Nagar,1119
+locality,Kaval Hosahalli,1699
+locality,Pattandur Agrahara,2682
+locality,Venkatadri Layout,3832
+locality,Amalodbhavi Nagar,128
+locality,Bileshivale,542
+locality,M S R Main Road,1976
+locality,Jakkasandra,1419
+locality,JC Layout,1386
+locality,Seetharampalya,3305
+locality,Honasandra,1301
+locality,Shri Krishna Nagar 8th Phase,3414
+locality,Glass Factory Layout,1121
+locality,Allalasandra,120
+locality,Magadi,2028
+locality,Maragondanahalli Road,2150
+locality,Hegganahalli,1275
+locality,Prithvi Layout,2774
+locality,7th Cross,39
+locality,Singasandra AECS Layout A Block,3438
+locality,Stage 2 BTM Layout,3514
+locality,Banashankari Stage I,371
+locality,SMV Layout,2984
+locality,Sampangi Rama Nagara,3048
+locality,Kacharakanahalli Hennur Main Road,1534
+locality,Moranapalli,2262
+locality,Kuduregere Colony,1881
+locality,MEG Layout,1981
+locality,LHR Layout,1916
+locality,Veer Sandra,3813
+locality,17th Main Road,7
+locality,Residency Road,2943
+locality,Dollars Colony,927
+locality,Deepthi Nagar Bangalore,847
+locality,Harlur Road,1259
+locality,SG Palya Main Rd,2981
+locality,Cholur Palya,761
+locality,Bidare Agraha,534
+locality,Madivala,2025
+locality,Sathya Sai Layout,3125
+locality,Paradise Colony,2649
+locality,JP Nagar,1388
+locality,Cambridge Layout,640
+locality,Rustum Bagh Main Road,2970
+locality,Jayanagara 2nd Block,1465
+locality,Kurubarahalli on Magadi Road,1904
+locality,Tata Nagar,3593
+locality,Krishnappa Layout,1871
+locality,South Bangalore,3475
+locality,Sivarampalli,3452
+locality,Hilalige Road,1288
+locality,Vakil Whispering Woods,3761
+locality,Veerabhadra Nagar,3816
+locality,Vivek Nagar,3919
+locality,Ittamadu,1374
+locality,Off Madras Road,2549
+locality,Ganga Nagar,1067
+locality,Bapuji Nagar,408
+locality,Vajarahalli,3759
+locality,Kada Agrahara,1536
+locality,Geddalahalli,1088
+locality,S.Bingipura,2973
+locality,Seegehalli Magadi Road,3304
+locality,Sector 7 HSR Layout,3238
+locality,Hosa Road Junction,1307
+locality,Nagarathnamma Layout,2341
+locality,Moodalapalya,2257
+locality,Kambipura,1603
+locality,Lal Bahadur Shastri Nagar,1934
+locality,Ekarajapura,992
+locality,Ckikkakammana Halli,776
+locality,Kaveri Nagar,1701
+locality,EPIP Zone,969
+locality,Koramangala 4th Block,1833
+locality,Dodda Banaswadi Main Road,917
+locality,Arekere,227
+locality,Arakere Bannerghatta Road,223
+locality,Kodathi Village Road,1775
+locality,Venkataswara Layout,3836
+locality,ALF Garden Layout,53
+locality,Majestic,2068
+locality,Sector 1 HSR Layout,3138
+locality,Vinayakanagar,3890
+locality,Cheemasandra,692
+locality,R T Nagar,2815
+locality,RT Nagar HMT Layout,2826
+locality,RT Nagar I,2827
+locality,HBR layout 5th Block,1215
+locality,Vasatha Vallbha Nagar,3798
+locality,Happy Valley Layout,1247
+locality,East of NGEF Layout,984
+locality,Vijinapura,3868
+locality,Bikasipura,539
+locality,BTM 4th stage,298
+locality,Sevashrama,3319
+locality,Marathahalli Village,2155
+locality,Railway Mens Empyloyees Layout 2nd Stage,2850
+locality,Jakkasandra Kormangala,1421
+locality,Subramani Layout,3520
+locality,KalkereAgara Main Road,1577
+locality,Whitefield Hoskote Road,3977
+locality,Dhanalakshmi Layout,883
+locality,Thirupalya,3640
+locality,Kannamangala New Airport Road,1638
+locality,Sorahunase,3471
+locality,Adarsh Palm Retreat,76
+locality,OMBR Layout Chikka Banaswadi,2543
+locality,Babusa Palya,306
+locality,Hennur Road,1283
+locality,Mahatma Gandhi Nagar,2046
+locality,Thyagarajanagar,3655
+locality,Garudacharpalya,1081
+locality,Vittal Mallya Road,3913
+locality,Malathalli Road,2080
+locality,Garudachar Palya,1079
+locality,Koramangala 6th Block,1834
+locality,Bidaraguppe,533
+locality,Jakkuru Layout,1423
+locality,Sannatammanahalli,3068
+locality,Ganigarahalli,1071
+locality,Kadaagrahara,1537
+locality,Hullahalli,1322
+locality,Panathur Main Road,2628
+locality,Nagadevanahalli,2335
+locality,Michael Palaya,2221
+locality,Off Cunningham Road,2548
+locality,Kundalahalli Colony,1894
+locality,Kundalahalli Main Road,1895
+locality,Rahmath Nagar,2848
+locality,NR Colony,2330
+locality,AECS Layout,49
+locality,Austin Town,255
+locality,St Johns Church Rd,3509
+locality,Amarjyoti Layout,132
+locality,MM Layout,1990
+locality,Banashankari Temple Ward,374
+locality,Wind Tunnel Road,3980
+locality,new bel road,4105
+locality,Brunton Road,612
+locality,Dollars Colony Ashwath Nagar,928
+locality,Ayyappa Nagar Main Road,271
+locality,Chinana Layout Guddadahalli,735
+locality,Indiranagar Defence Colony,1360
+locality,Vittal Nagar,3914
+locality,Chennammana Kere,704
+locality,Ulsoor Road,3709
+locality,Aga Abbas Ali Road,86
+locality,Nandidurga Road Crescent,2381
+locality,Nagdevanahalli,2349
+locality,Yelachenahalli,3993
+locality,Weavers Colony,3955
+locality,Vibhutipura Extension,3846
+locality,Sathnur Village,3123
+locality,Veerannapalya,3817
+locality,Kanmanike,1636
+locality,Chandra Layout,678
+locality,Shampura Main Road,3348
+locality,Hurulichikanahalli,1325
+locality,BCC Layout,286
+locality,Ittamadu Banashankari,1375
+locality,Malleshwaram 11th Cross,2092
+locality,Azad Nagar,273
+locality,Sidedahalli,3427
+locality,Srinivas Nagar,3495
+locality,Vidyapeeta Main,3851
+locality,Banashankari 3rd Stage Banashankari,367
+locality,Immadihalli Whitefield,1352
+locality,Thirupalya Road,3641
+locality,Near Bellandur,2443
+locality,Ragigudda Slum,2844
+locality,1st Cross,9
+locality,Gopalkrishna Nagar,1139
+locality,Post Office Road,2740
+locality,MS Ramaiah North City Bangalore,1992
+locality,Bommasandra Jigani Link Rd,581
+locality,Gollahalli Electronic City Road,1135
+locality,Shirdi Sai nagar,3392
+locality,9th Main Hongasandra GB Palya Road,45
+locality,Kodiyalam Road,1784
+locality,Ganapathipura,1059
+locality,Narayana Reddy Layout,2395
+locality,Vijaya Bank Colony Extension,3864
+locality,Ambalipura,133
+locality,Kengeri Hobli,1712
+locality,Karthik Nagar,1659
+locality,RPC layout,2824
+locality,Mahalaxmipuram,2039
+locality,Sector 6 HSR Layout,3234
+locality,AECS Layout A Block Singasandra,50
+locality,JCR Layout,1387
+locality,Kattigenahalli,1692
+locality,Kanakanagar,1615
+locality,Lakeview Residency,1931
+locality,Kasturi Nagar Road,1679
+locality,Lakkasandra,1932
+locality,Kammasandra,1607
+locality,Chikkajala,728
+locality,MS Ramaiah North City Manayata Tech Park,1993
+locality,Indira Nagar 1st Stage,1358
+locality,Lakkasandra Laljinagar,1933
+locality,Patteghar Palya Main Road,2684
+locality,Aavalahalli,56
+locality,Muthyala Nagar,2317
+locality,Hennur Main Road,1281
+locality,Raysandara,2932
+locality,Konadasapura,1809
+locality,Madavara,2006
+locality,Doddaballapura,919
+locality,NGEF Layout Sadanandanagar,2324
+locality,Pottery Town,2744
+locality,Roopena Agrahara,2962
+locality,Kitthaganahalli,1770
+locality,AECS Layout Block C,51
+locality,Guttahalli,1212
+locality,Akashnagar B Narayanapura,105
+locality,TC Palya Road,3569
+locality,Thirumalashettyhally,3633
+locality,Chikkabidarakallu,726
+locality,Soladevanahalli,3461
+locality,Arasinakunte,225
+locality,Thimmadahalli,3632
+locality,Annapoorneshwari Nagar,209
+locality,kalkere Bannerghatta Road,4068
+locality,Halasuru,1233
+locality,Doddakannalli,923
+locality,2nd Phase JP Nagar,23
+locality,CV Raman Nagar Kaggadasapura,638
+locality,Basavanagar,422
+locality,Bharath Nagar Anjana Nagar,496
+locality,K.Settihalli,1518
+locality,Varthur Main Road,3785
+locality,Venkateshwara layout,3837
+locality,Pillagana Halli,2714
+locality,Kadabagere,1538
+locality,Thotada Guddadhalli Village,3650
+locality,Dargajogihalli,828
+locality,JP Nagar Phase 2,1390
+locality,Hosahalli,1308
+locality,Baiyappanahalli Road,335
+locality,Manjunatha Layout Munnekollal,2135
+locality,Vyalikaval,3925
+locality,Brookefield AECS Layout A Block,611
+locality,Sultan Palya,3534
+locality,Vidyamanya Nagar,3850
+locality,Sinthan Nagar,3441
+locality,Nayanapanahalli Road,2439
+locality,Srinivaspur,3500
+locality,Iggalur,1350
+locality,Vignana Nagar Bengaluru,3854
+locality,Whitefield Hagadur,3975
+locality,Dasanapura,829
+locality,Kodigehalli Nice Ring Road,1779
+locality,Lingapura,1955
+locality,Hegondanahalli,1276
+locality,HRBR 1 Block,1217
+locality,Neraluru,2473
+locality,Dasarahalli Road,831
+locality,Kaverappa Layout Bangalore,1700
+locality,Tirumalapura,3671
+locality,Kalkere Main Road,1576
+locality,Venugopal Reddy Layout,3839
+locality,Byadarahalli,623
+locality,Madagondahalli,1997
+locality,Green Woods Layout,1175
+locality,Jyoti Nagar,1510
+locality,Vishveshwarya Layout,3911
+locality,ISRO Layout,1341
+locality,BSK 3rd Stage,293
+locality,Banashankari Stage III,373
+locality,MCECHS layout,1980
+locality,MSR Nagar Road Extension,1995
+locality,Chikkabasavanapura,724
+locality,B Narayanapura Road,284
+locality,JAYANAGAR 2ND BLOCK,1384
+locality,Byadralli,624
+locality,Kanaka Layout,1613
+locality,Appareddipalya,221
+locality,Ramasandra,2894
+locality,lbs nagar,4086
+locality,Voderahalli,3923
+locality,Chinnapanahalli,744
+locality,D Group Layout,798
+locality,Harlur Main Road,1258
+locality,Virat Nagar,3898
+locality,B Narayanapura,283
+locality,Neeladri Investment Layout 6th Main Road,2449
+locality,TC Palya Main,3568
+locality,Hutchins Road,1329
+locality,MEI Layout,1982
+locality,1st block Kalyan Nagar,11
+locality,Chikka Banaswadi Banasawadi,722
+locality,Ananthapura main,183
+locality,KAS Officers Colony,1519
+locality,Huskur,1326
+locality,Chickpete,716
+locality,gattahalli,4045
+locality,Bethel Nagar Road,475
+locality,Electronics City Phase 1 Doddathoguru,1004
+locality,Nandi Hills,2380
+locality,vignan nagar,4136
+locality,Sarjapur  Road,3096
+locality,Ranganathan Colony,2911
+locality,Bellary Road Hebbal Kempapura,467
+locality,Magadi Road,2029
+locality,Ranka Nagar,2918
+locality,Laggere Main Road,1918
+locality,Okalipuram,2552
+locality,Gangondanahalli,1069
+locality,Mohan Kumar Nagar,2250
+locality,Kaveri Pura,1702
+locality,koramangla 1st block,4082
+locality,Byraveshwara Industrial Estate,628
+locality,Sriranganagar,3506
+locality,Attibele Industrial Area,248
+locality,Chelekare,694
+locality,Kommasandra,1804
+locality,Badamanavarthekaval,310
+locality,Srinivaspura,3501
+locality,Magrath Road,2031
+locality,8th Block Koramangala,42
+locality,Bettahalli,477
+locality,Navodaya Nagar Bangalore,2430
+locality,Madhura Nagar,2020
+locality,Chikkabana Halli,723
+locality,Thammenahalli Village,3619
+locality,SK Garden,2983
+locality,Ambattur,136
+locality,Kelambakkam,1705
+locality,Adyar,85
+locality,Sembakkam,3311
+locality,Mogappair,2246
+locality,Choolaimedu,766
+locality,Medavakkam,2198
+locality,Vadapalani,3751
+locality,Perumbakkam,2701
+locality,Thirumullaivoyal,3637
+locality,Ambattur INDUSTRIAL ESTATE,137
+locality,Urapakkam,3726
+locality,Palavakam,2610
+locality,Kolathur,1793
+locality,Madhanandapuram,2010
+locality,Perungudi,2703
+locality,Kilpauk,1756
+locality,Sholinganallur,3408
+locality,Valasaravakkam,3764
+locality,Mylapore Devandavakkam,2320
+locality,Ramavaram,2895
+locality,Ayanavaram,267
+locality,Guduvancheri,1181
+locality,Kattupakkam,1693
+locality,Chromepet,768
+locality,Vinayagapuram,3887
+locality,Besant Nagar,474
+locality,T Nagar,3566
+locality,West Mambalam,3958
+locality,Pallikaranai,2620
+locality,Nanganallur,2383
+locality,Thiruvanmiyur,3643
+locality,Royapettah,2963
+locality,Periyamet,2697
+locality,Potheri,2741
+locality,Virugambakkam,3900
+locality,Poonamallee,2736
+locality,Maduravoyal,2026
+locality,Perambur,2695
+locality,Velachery,3822
+locality,Iyappanthangal,1376
+locality,Mugalivakkam,2277
+locality,Madipakkam,2023
+locality,Aminjikarai,159
+locality,Chetpet,707
+locality,Mogappair East,2247
+locality,Avadi,257
+locality,George Town,1092
+locality,Purasawalkam,2794
+locality,Alwarpet,127
+locality,Alandur,116
+locality,Saidapet,3021
+locality,Kovilambakkam,1860
+locality,Teynampet,3606
+locality,Pallavan Nagar,2616
+locality,Madambakkam,1998
+locality,Ekkatuthangal,994
+locality,Padur,2598
+locality,Kodambakkam,1772
+locality,Padi,2593
+locality,Jamalia,1431
+locality,Anna Nagar East,204
+locality,Rajakilpakkam,2861
+locality,Nungambakkam,2540
+locality,Gopalapuram,1138
+locality,Korattur,1836
+locality,Egmore,990
+locality,Pammal,2624
+locality,Porur,2738
+locality,Nandanam,2376
+locality,Arumbakkam,231
+locality,Raja Annamalai Puram,2853
+locality,Mahabalipuram,2032
+locality,Anna Nagar West Extension,205
+locality,Abiramapuram,60
+locality,Neelankarai,2454
+locality,Kottivakkam,1856
+locality,Anakaputhur,168
+locality,Villivakkam,3883
+locality,Annanagar West,208
+locality,Kotivakkam,1853
+locality,Puzhal,2802
+locality,Vyasarpadi,3926
+locality,Kundrathur,1898
+locality,Palavakkam,2611
+locality,Navallur,2424
+locality,Mangadu,2113
+locality,Siruseri,3448
+locality,Vengathur Panchayat,3829
+locality,Washermanpet,3952
+locality,Thaiyur,3607
+locality,Adambakam,70
+locality,Vengaivasal,3826
+locality,Jalladianpettai,1429
+locality,tambaram west,4131
+locality,Old Pallavaram,2563
+locality,Perungalathur,2702
+locality,Irumbuliyur,1370
+locality,Ponniammanmedu,2735
+locality,Kodungaiyur West,1786
+locality,Thiruvidandhai,3645
+locality,Kanathur Reddikuppam,1618
+locality,Anna Nagar,203
+locality,Mahindra World City,2059
+locality,Maraimalai Nagar,2151
+locality,Singaperumal Koil,3435
+locality,Kilkattalai,1755
+locality,Semmancheri,3312
+locality,Kovalam,1859
+locality,SEMMENCHERY,2978
+locality,Balavinayagar Nagar,346
+locality,Tharamani,3627
+locality,Chengalpattu,701
+locality,Mylapore,2319
+locality,Kamaraj Nagar,1597
+locality,Manapakkam,2103
+locality,K K Nagar,1515
+locality,T Nagar 3,3567
+locality,Camp,641
+locality,Kotturpuram,1857
+locality,Tharapakkam,3628
+locality,Thoraipakkam,3647
+locality,Injambakkam,1366
+locality,Thoraipakkam OMR,3648
+locality,Thalambur,3616
+locality,Iyyappanthangal,1378
+locality,Pudupakkam,2777
+locality,Chitlapakkam,753
+locality,Kolapakkam,1791
+locality,Papanthangal,2648
+locality,Sithalapakkam,3450
+locality,Selaiyur,3308
+locality,Guindy,1183
+locality,Uthandi,3731
+locality,Kottavakkam,1855
+locality,Chikkarayapuram,732
+locality,Pallavaram,2619
+locality,Karapakkam,1650
+locality,Thiruverkadu,3644
+locality,Padur On Arakkonam Hwy,2599
+locality,Shenoy Nagar,3372
+locality,Nandhampakkam,2379
+locality,Pazavanthangal,2688
+locality,Sriperumbudur,3503
+locality,CIT Nagar,634
+locality,J Nagar,1381
+locality,Koyambedu,1864
+locality,Avvai Nagar,262
+locality,Kodambakkam Chennai West,1773
+locality,Egatoor,989
+locality,Nesapakkam,2481
+locality,Customs Colony,796
+locality,Kovur,1862
+locality,Vanagaram,3769
+locality,Kazhipattur,1703
+locality,Thirumudivakkam,3636
+locality,West Tambaram,3965
+locality,Santhome,3076
+locality,Marudeeswarar Nagar,2166
+locality,Madanankppam,1999
+locality,Sunnambu Kolathur S Kolathur,3545
+locality,Vengambakkam,3828
+locality,Peerakankaranai,2692
+locality,Kannathur Reddy Kuppam,1639
+locality,Santhosapuram,3077
+locality,Ayapanthangal,269
+locality,Thousand Lights,3651
+locality,Marakkanam,2152
+locality,Triplicane,3695
+locality,mELAKOTTAIYUR,4090
+locality,Vettuvankeni,3844
+locality,Adambakkam,71
+locality,Kandigai,1623
+locality,Moulivakkam,2270
+locality,Manimangalam,2124
+locality,East Tambaram,980
+locality,Chintadripet,746
+locality,Madhavaram Milk Colony,2017
+locality,Velappanchavadi,3824
+locality,Thandalam,3620
+locality,Jeth Nagar,1471
+locality,Tondiarpet,3684
+locality,Panayur,2629
+locality,Madhavaram,2016
+locality,Royappa Nagar,2964
+locality,Nolambur,2537
+locality,Vellakkal,3825
+locality,Nerkundram,2479
+locality,Devendra Nagar,873
+locality,Akkarai,106
+locality,MGR Nagar Velachery,1986
+locality,Oragadam,2574
+locality,Ashta Lakshmi Nagar,241
+locality,Gowrivakkam,1160
+locality,Okkiyam,2556
+locality,Urapakkam West,3727
+locality,Philomina Nagar,2708
+locality,East Coast Road Injambakkam,971
+locality,Kovilpathagai,1861
+locality,Tnagar,3679
+locality,Mambakkam Medavakkam Main Road,2099
+locality,Thirunindravur,3639
+locality,Pattabiram,2681
+locality,Tiruvallur,3675
+locality,Thiruneermalai,3638
+locality,Nagalkeni,2336
+locality,Madipakkam Kuberan Nagar Extention,2024
+locality,Cuddalore,790
+locality,Jafferkhanpet,1402
+locality,Pozhichalur,2749
+locality,Nanmangalam,2385
+locality,Pulianthope,2779
+locality,NGO Colony,2325
+locality,Kulattur,1883
+locality,Tiruvottiyur,3676
+locality,Kolathur R.F.,1794
+locality,Ramapuram,2893
+locality,Kallikuppam East Balaji Nagar,1578
+locality,Veppampattu,3841
+locality,Kumananchavadi,1885
+locality,Thiruvika Nagar,3646
+locality,Maran Nagar,2153
+locality,Mannivakkam,2138
+locality,Kalipathur,1571
+locality,Periyar Nagar,2698
+locality,Saligramam,3038
+locality,Old Washermanpet,2569
+locality,200 Feet Road,14
+locality,Vijaya Nagar,3865
+locality,Jalladian Pet,1428
+locality,Thirumazhisai,3635
+locality,Nemam,2466
+locality,Thirumangalam,3634
+locality,Sea Cliff Conclave Akkarai,3133
+locality,East Coast Road Panaiyur,973
+locality,Muttukadu,2318
+locality,Kamakoti Nagar,1593
+locality,Pudupakkam Village,2778
+locality,Puzhudhivakkam,2803
+locality,Mudichur,2276
+locality,Padapai,2591
+locality,Keelkattalai,1704
+locality,Nellikuppam,2465
+locality,Ayapakkam,268
+locality,Raj Nagar,2851
+locality,Kailash Nagar,1552
+locality,East Coast Road Kottivakkam,972
+locality,Subham Nagar,3516
+locality,Kodungaiyur,1785
+locality,Karayanchavadi,1653
+locality,Sulur,3536
+locality,Pallavan Salai,2618
+locality,Mandaveli,2105
+locality,Bharathiyar Nagar,497
+locality,Kubera Nagar,1874
+locality,Vazhayila,3809
+locality,Thatchoor,3629
+locality,Ramakrishna Nagar Extension,2889
+locality,Sholinganallur ECR Link Road,3409
+locality,Anand Nagar Main,173
+locality,old pallavaram jeya lakhsminagar,4107
+locality,Choolaima Nagar,765
+locality,Dummingkuppam,952
+locality,Karappakam,1651
+locality,Ayanambakkam,266
+locality,Sakthi Nagar,3035
+locality,Bella Tuscany,464
+locality,Tiruporur Near Kelambakkam,3674
+locality,Velachery Road,3823
+locality,Kambar Nagar Kolathur,1602
+locality,Kattankulathur,1690
+locality,Moolacheri,2258
+locality,IIT Colony Pallikaranai,1336
+locality,Kattankolatur R.F.,1689
+locality,Choolai,764
+locality,Tambaram Sanatoruim,3586
+locality,Kil Ayanambakkam,1754
+locality,Ennaikaran,1013
+locality,Gerugambakkam,1093
+locality,Gem Nagar,1091
+locality,Purasaiwakkam,2793
+locality,NehruNagar,2462
+locality,Perambur Paper Mills Road,2696
+locality,Jaya Nagar,1457
+locality,Puzhuthivakkam,2804
+locality,Thillai Ganga Nagar,3631
+locality,Kandanchavadi,1622
+locality,Tambaram to Mudichur road,3587
+locality,St Thomas Mount,3511
+locality,Francis Colony,1032
+locality,Nemilichery,2468
+locality,Vandalur,3773
+locality,Konathi Village,1812
+locality,Mappedu Junction,2148
+locality,Cholambedu,759
+locality,Dhanalakshmi Nagar,884
+locality,Minjur,2231
+locality,Vignarajapuram 3rd Cross St,3855
+locality,Nungambakkam Thiruvallur,2541
+locality,MGR Nagar,1985
+locality,Selaivayal,3307
+locality,Padalam,2590
+locality,Jai Nagar,1414
+locality,Manali,2102
+locality,Varadharajapuram,3778
+locality,Gummudipoondi,1193
+locality,Arcot Road Valasaravakkam,226
+locality,Adambakkam NGO Colony,72
+locality,Friends Nagar,1038
+locality,Vignarajapuram 4th Extension Road,3856
+locality,Vettuvankani,3843
+locality,Pallavan Nagar Main Road,2617
+locality,Adhanur,79
+locality,Surapet,3549
+locality,Meenambakkam,2203
+locality,Irugur,1369
+locality,mylapore,4101
+locality,Coonoor,787
+locality,Surappattu,3550
+locality,Vadanemmeli,3750
+locality,SITHALAPAKKAMM,2982
+locality,Kanchipuram,1620
+locality,Varadharajapuram Main,3779
+locality,Nandambakkam,2375
+locality,Pazhavanthangal,2689
+locality,Royapuram,2965
+locality,Jagathy,1408
+locality,Guduvancherry,1182
+locality,Katrambakkam,1687
+locality,Chettipunyam,709
+locality,Pavendar Nagar,2687
+locality,Arakkonam North,224
+locality,Nemilicheri,2467
+locality,Ambattur Red Hills Road,138
+locality,Plammoodu,2726
+locality,Chettipunniyam,708
+locality,kanakpura,4070
+locality,Sastri Nager,3113
+locality,Mappedu,2147
+locality,Agaram,89
+locality,Pothur,2742
+locality,Vasantham Nagar,3797
+locality,Senganmal,3314
+locality,Seven Wells North,3321
+locality,Iyyapa Nagar,1377
+locality,Mannanthala,2137
+locality,Mannivakkam Extension,2139
+locality,Krishna Nagar,1868
+locality,Mevalurkuppam,2219
+locality,Banu Nagar,403
+locality,Cholavaram,760
+locality,Perumalpattu,2700
+locality,Border Thottam,593
+locality,Kalikunram,1568
+locality,KK Nagar,1521
+locality,New Gummidipoondi,2495
+locality,Navalur,2425
+locality,Sri Iyappa Nagar,3487
+locality,Radha Nagar,2835
+locality,Kolapakkam Vandalur,1792
+locality,Pottakkuzhi,2743
+locality,Thiruporur,3642
+locality,Kattavakkam,1691
+locality,Vasantha Nagar,3796
+locality,Annai Meenakshi Nagar,206
+locality,Kanjirampara,1628
+locality,Tellus avenue,3604
+locality,Kuthambakkam,1908
+locality,Agaramthen,90
+locality,Sekkadu,3306
+locality,Mettukuppam Kanchipuram,2218
+locality,ennore,4042
+locality,VSM Garden,3749
+locality,Valarkundram,3763
+locality,Ottiyabakkam,2581
+locality,Raghava Reddy Colony,2841
+locality,Paruthipattu Road,2663
+locality,Oragadam Village Ambattur Talu,2576
+locality,Radha Nagar Main,2836
+locality,Oragadam Industrial Corridor,2575
+locality,Chembarambakkam,696
+locality,West Saidapet,3963
+locality,SRR Colony,2987
+locality,Veppampatttu,3840
+locality,Palani Andavar Koil Street,2608
+locality,Park Town,2659
+locality,Jawahar Nagar,1451
+locality,RedHill,2936
+locality,Srinivasa Puram,3499
+locality,Mettukuppam,2217
+locality,Dharmapuri,895
+locality,Kamarajapuram,1598
+locality,Annai Sathya Nagar,207
+locality,Attipattu,250
+locality,Hastinapuram,1262
+locality,Mogappair West,2248
+locality,Nallambakkam,2370
+locality,Vannanthurai,3776
+locality,Katankulathur,1680
+locality,Vasant Kunj,3790
+locality,Sector-B Vasant Kunj,3279
+locality,Saket,3029
+locality,New Ashok Nagar,2485
+locality,laxmi nagar,4084
+locality,Malviya Nagar,2096
+locality,Sector-17 Rohini,3267
+locality,Pitampura,2723
+locality,Uttam Nagar,3732
+locality,Janakpuri,1440
+locality,vikaspuri,4137
+locality,Shadipur,3325
+locality,Karol Bagh,1658
+locality,Palam,2606
+locality,Baprola,405
+locality,Burari,620
+locality,Pochanpur Colony,2727
+locality,Kalkaji,1572
+locality,Munirka,2306
+locality,Lajpat Nagar,1919
+locality,Dr Mukherji Nagar,941
+locality,Vasant Vihar,3793
+locality,Sector 22 Dwarka,3194
+locality,Sector 6 Dwarka,3233
+locality,Model Town,2242
+locality,Ghitorni,1106
+locality,Sector 23 Dwarka,3197
+locality,Dwarka Mor,958
+locality,Chattarpur,688
+locality,Sector 8 Dwarka,3243
+locality,Wazirabad,3953
+locality,Mahavir Enclave,2049
+locality,Neeti Bagh,2457
+locality,mayur vihar phase 1,4097
+locality,Panchsheel Park,2635
+locality,Defence Colony,849
+locality,Mayur Vihar Phase 3,2192
+locality,Aya Nagar,264
+locality,Tilak Nagar,3661
+locality,Shalimar Bagh,3345
+locality,Sector 1 Dwarka,3137
+locality,Ramesh Nagar,2901
+locality,Jaunapur,1450
+locality,Ashok Vihar,236
+locality,Sector 8 Rohini,3246
+locality,West Shalimar Bagh,3964
+locality,Samalka,3044
+locality,Vijay Nagar,3861
+locality,Neb Sarai,2448
+locality,Moti Bagh,2267
+locality,Manglapuri,2118
+locality,Karampura,1648
+locality,Greater Kailash,1163
+locality,Sahibabad,3012
+locality,SULTANPUR,2988
+locality,Green Park,1171
+locality,Sector 13 Dwarka,3153
+locality,Sector-7 Rohini,3274
+locality,Safdarjung Enclave,3004
+locality,Sector 3 Dwarka,3211
+locality,Patparganj,2680
+locality,Sheikh Sarai,3367
+locality,Khirki Extension,1745
+locality,Maharani Bagh,2044
+locality,Sector 19 Dwarka,3175
+locality,Panchsheel Enclave,2634
+locality,Patel Nagar,2677
+locality,Jangpura,1442
+locality,Tagore Garden Extension,3572
+locality,rohini sector 5,4120
+locality,Sector 25 Rohini,3204
+locality,Rajpur,2876
+locality,Jamia Nagar,1438
+locality,Rajinder Nagar,2871
+locality,Gharoli,1096
+locality,Rangpuri,2912
+locality,South Extension 1,3480
+locality,Sector 14 Dwarka,3155
+locality,Bindapur,543
+locality,Chirag Dilli,752
+locality,Nawada,2435
+locality,Kapashera,1642
+locality,Rajouri Garden,2874
+locality,Sunlight Colony,3544
+locality,Najafgarh,2359
+locality,Kamla Nagar,1605
+locality,Sarita Vihar,3094
+locality,DLF Phase 5,804
+locality,Pushpanjali Farms,2801
+locality,Sultan Puri,3535
+locality,Goyla Khurd,1161
+locality,Ganesh Nagar,1065
+locality,Ghevra,1105
+locality,Hari Nagar Ashram,1253
+locality,Madangir,2001
+locality,Kirti Nagar,1760
+locality,Sector 9 Dwarka,3249
+locality,Hauz Khas,1267
+locality,Sector 12 Dwarka,3151
+locality,Sector 11 Dwarka,3146
+locality,Sector 10 Dwarka,3141
+locality,Sector-18 Dwarka,3268
+locality,Sector 18A Dwarka,3173
+locality,dwarka sector 17,4037
+locality,Jor bagh,1492
+locality,Connaught Place,784
+locality,South Extension 2,3481
+locality,Greater kailash 1,1167
+locality,Rohini sector 16,2958
+locality,Mayur Vihar II,2190
+locality,Mayur Vihar,2189
+locality,Sainik Farm,3025
+locality,Soami Nagar,3456
+locality,Sarvpriya Vihar,3111
+locality,New Friends Colony,2493
+locality,Safdarjung Development Area,3003
+locality,East of Kailash,982
+locality,Gulmohar park,1191
+locality,Sector 5 Dwarka,3227
+locality,Sector 7 Dwarka,3237
+locality,Sector 6 Rohini,3235
+locality,Sector 4 Dwarka,3223
+locality,Sri Niwaspuri,3491
+locality,Chittaranjan Park,756
+locality,Sector 15 Rohini,3160
+locality,Sector 3 Rohini,3213
+locality,Lajpat Nagar IV,1923
+locality,Sector 1 Rohini,3139
+locality,Sector 28 Dwarka,3207
+locality,Anand Niketan,175
+locality,Mansarover Garden,2143
+locality,Sector 2 Rohini,3181
+locality,Mansa Ram Park,2141
+locality,Alaknanda,114
+locality,Sector 17 Dwarka,3168
+locality,Paschim Vihar,2669
+locality,Adchini,77
+locality,West End,3957
+locality,DLF Farms,803
+locality,Naraina,2387
+locality,Inderpuri,1353
+locality,Sector 4 Rohini,3224
+locality,Shanti Niketan,3356
+locality,Sadiq Nagar,3001
+locality,Sundar Nagar,3539
+locality,Golf Links,1134
+locality,Nizamuddin East,2533
+locality,Sector 2 Dwarka,3180
+locality,Sector 18B Dwarka,3174
+locality,Punjabi Bagh,2787
+locality,Sector 9 Rohini,3251
+locality,Shanti Park Dwarka,3357
+locality,Rohini sector 24,2959
+locality,Sector 14 Rohini,3156
+locality,Garhi,1075
+locality,Central Ridge Reserve Forest,647
+locality,Subhash Nagar,3519
+locality,Raja garden,2859
+locality,Sector-8 Dwarka,3275
+locality,Sector 23B Dwarka,3201
+locality,Mehrauli,2209
+locality,Lodhi Estate,1960
+locality,Sarvodaya Enclave,3110
+locality,Lajpat Nagar III,1922
+locality,Vasundhara Enclave,3806
+locality,Chhawla,715
+locality,C R Park,629
+locality,Niti Bagh,2531
+locality,IP Extension,1338
+locality,Anand Vihar,178
+locality,Sat Bari,3115
+locality,Masjid Moth Village,2179
+locality,Malcha,2082
+locality,Greater Kailash II,1164
+locality,Lajpat Nagar II,1921
+locality,greater kailash Enclave 1,4048
+locality,Sector 23 Rohini,3199
+locality,Sukhdev Vihar,3530
+locality,Vikas Puri,3871
+locality,Rohini Sector 9,2957
+locality,Sector 13 Rohini,3154
+locality,Sector 21 Rohini,3191
+locality,Sector 22 Rohini,3196
+locality,Shahdara,3330
+locality,Ansari Nagar West,214
+locality,Madanpur Dabas,2002
+locality,Yusuf Sarai,4008
+locality,Sector 11 Rohini,3149
+locality,Central Secretariat,648
+locality,Nilothi,2526
+locality,Hari Nagar,1252
+locality,Preet Vihar,2768
+locality,Swasthya Vihar,3558
+locality,Ajmeri Gate,104
+locality,Rajokri,2873
+locality,Kirari Suleman Nagar,1758
+locality,Fateh Nagar,1024
+locality,Gautam Nagar,1085
+locality,Shakurbasti,3343
+locality,Radhey Mohan Drive,2839
+locality,Jasola,1448
+locality,Gujranwala Town,1184
+locality,Tri Nagar,3690
+locality,Dera Mandi,864
+locality,Shakurpur,3344
+locality,Bahapur,330
+locality,Daheli Sujanpur,815
+locality,Govindpuri,1155
+locality,Ladosarai,1917
+locality,Om Vihar,2573
+locality,Maidan Garhi,2064
+locality,Kaushambi,1696
+locality,Shastri Nagar,3362
+locality,Dilshad Garden,910
+locality,Dabri,810
+locality,Sector 16A Dwarka,3166
+locality,Matiala,2182
+locality,Qutab Enclave,2807
+locality,Badarpur,312
+locality,Katwaria Sarai,1694
+locality,Madanpur Khadar,2003
+locality,Qutab Institutional Area,2808
+locality,Vishnu Garden,3907
+locality,Vivek Vihar,3920
+locality,Jhil Mil Colony,1473
+locality,AGCR Enclave,52
+locality,Pragati Vihar,2758
+locality,Sangam Vihar,3060
+locality,Surajmal Vihar,3548
+locality,Zone L Dwarka,4011
+locality,Roop Nagar,2961
+locality,Sector 16B Dwarka,3167
+locality,Dwarka Sector 15,963
+locality,Bali Nagar,351
+locality,Sewak Park,3323
+locality,Siri Fort,3447
+locality,Gulabi Bagh,1187
+locality,Nizamuddin West,2534
+locality,Sector 28 Rohini,3208
+locality,Ranjeet Nagar,2916
+locality,Hastsal,1264
+locality,New Mustafabad,2504
+locality,Dichaon Kalan,904
+locality,Sarojini Nagar,3104
+locality,Geeta Colony,1089
+locality,Kalyan Puri,1586
+locality,Delhi Cantonment,855
+locality,Pandav Nagar,2637
+locality,Dayanand Colony,841
+locality,Jail Road,1416
+locality,Saket delhi,3030
+locality,Sainik nagar 1,3026
+locality,South Extension II,3482
+locality,Sector 8,3241
+locality,Khushi Ram Park Delhi,1753
+locality,Jangpura Extension,1444
+locality,Westend DLF Chattarpur Farms,3968
+locality,Friends Colony,1036
+locality,Uday Park,3706
+locality,Green Park Extension,1172
+locality,Navjeevan Vihar,2428
+locality,Shivalik,3399
+locality,Geetanjali Enclave,1090
+locality,PANCHSHEEL VIHAR,2585
+locality,Shivalik Block C,3401
+locality,Khirki Extension Panchsheel Vihar,1746
+locality,Green Park Extension Road,1173
+locality,Malviya Nagar Savitri Nagar,2098
+locality,Sunder Nagar,3540
+locality,Malviya Nagar Block G,2097
+locality,South Extension Part 1,3483
+locality,Green park Extn,1177
+locality,Raj Nagar Part II,2852
+locality,dwarka sector 3,4039
+locality,Green Park Main,1174
+locality,Aurungzeb Road,254
+locality,Laxmi Nagary,1948
+locality,KHIRKI VILLAGE,1520
+locality,New Rajendra Nagar,2507
+locality,Old Rajender Nagar,2564
+locality,Khanpur Krishna Park,1730
+locality,Shivalik Block B,3400
+locality,Soami Nagar South,3457
+locality,VAISHALI SEC 4,3743
+locality,Savitri Nagar,3130
+locality,Sunder Vihar,3541
+locality,Main Chhatarpur Road,2066
+locality,Hemkunt Colony,1277
+locality,Guru Angad Nagar,1204
+locality,Kailash Colony,1550
+locality,Block D Lajpat Nagar I,550
+locality,Asian Games Village Complex,243
+locality,Kalkaji Extension,1573
+locality,Hauz Khas Enclave,1268
+locality,West Patel Nagar,3960
+locality,Tooth Sarai,3686
+locality,Meera Bagh,2204
+locality,Greater kailash enclave II,1169
+locality,Vikas Marg,3869
+locality,Freedom Fighters Enclave,1035
+locality,Freedom Fighter Enclave,1034
+locality,Prakash Mohalla Amritpuri,2762
+locality,laxmi nagar near metro station,4085
+locality,A1 Block Paschim Vihar Delhi,48
+locality,Block RU Uttari Pitampura,560
+locality,Santnagar,3080
+locality,SECTOR 7 DWARKA NEW DELHI,2976
+locality,Paryavaran Complex,2665
+locality,Kapil Vihar,1643
+locality,Gurudwara Road,1206
+locality,Kishan Ganj,1761
+locality,Vikram Vihar,3875
+locality,Kundan Nagar,1897
+locality,Amritpuri,162
+locality,Sector-14 Rohini,3263
+locality,Dwarka New Delhi 110075,961
+locality,Greater kailash III,1168
+locality,i p extension patparganj,4058
+locality,Jawahar Park,1452
+locality,Guru Ram Das Nagar,1205
+locality,Priyadarshini Vihar Priya Priyadarshini Vihar,2776
+locality,Kailash hills,1554
+locality,Sriniwas Puri,3502
+locality,Nehru Enclave,2458
+locality,Moti Nagar,2268
+locality,South Delhi,3478
+locality,DWARKA SEC 23,808
+locality,SECTOR-7 DWARKA,2977
+locality,Saraswati Vihar,3090
+locality,Uttam Nagar west,3736
+locality,Sant Nagar,3070
+locality,Vasant Kunj Sector A,3792
+locality,Samta Enclave,3051
+locality,Jasola Vihar Sector 8 Road,1449
+locality,SectorB Vasant Kunj,3302
+locality,Dwarka 12 Sector,957
+locality,Dwarka Sector 7,964
+locality,Sector18 Dwarka,3287
+locality,Amar colony,130
+locality,Okhla,2553
+locality,Sector 18 Rohini,3171
+locality,Lajpat Nagar 4,1920
+locality,Pamposh Enclave,2625
+locality,Engineer Enclave,1012
+locality,Dwarka sec 6,965
+locality,Chhattarpur Enclave Phase1,714
+locality,DLF City Phase 1,802
+locality,East of Kailash C Block,983
+locality,Rajpur Khurd Extension,2877
+locality,Pandwalan Khurd,2641
+locality,B 5 Block,279
+locality,Netaji Subhash Place,2483
+locality,Vasant Kunj Enclave,3791
+locality,south delhi apartment sector 4,4128
+locality,Okhla Phase I,2555
+locality,Nehru Place,2461
+locality,Prithviraj Road,2775
+locality,Block E Pandav Nagar Road,554
+locality,Rohit Kunj Sandesh Vihar,2960
+locality,Abul Fazal Enclave Jamia Nagar,61
+locality,Raju Park,2878
+locality,Deoli Khanpur,860
+locality,Poorvi Pitampura,2737
+locality,R.K. Puram,2817
+locality,Tilak Marg,3660
+locality,India Gate,1355
+locality,Shiva Enclave,3395
+locality,Malcha Marg,2083
+locality,CR Park Main Road,636
+locality,Khanpur Deoli,1729
+locality,Devli Nai Basti,877
+locality,Kohat Enclave,1788
+locality,Pushpanjali Enclave,2800
+locality,Tarun Enclave,3592
+locality,Shalimar Bagh AG Block,3346
+locality,Uttari Pitampura,3741
+locality,Sector-8 Rohini,3276
+locality,South Extension,3479
+locality,Mahipalpur,2060
+locality,Jangpura A,1443
+locality,Nihal Vihar Delhi,2523
+locality,Palam Vihar,2607
+locality,Block ED Dakshini Pitampura,555
+locality,Kishangarh Mehrauli Road,1763
+locality,Batla House Jamia Nagar,429
+locality,Sector 18 Sector 18A Dwarka,3172
+locality,dwarka sector 12,4036
+locality,Mandawali,2106
+locality,Fatehpur Beri,1025
+locality,Kamruddin Nagar,1610
+locality,East Guru Angad Nagar,975
+locality,Adarsh Nagar,73
+locality,Rajouri Garden Extension,2875
+locality,Block DU Uttari Pitampura,552
+locality,Prashant Vihar Sector 14,2765
+locality,Radhe Mohan Drive,2838
+locality,Jahangirpuri,1412
+locality,Jharoda Majra Burari,1472
+locality,Sector C Vasant Kunj,3254
+locality,Sector 8 Dwarka Block B,3244
+locality,Basai Dara pur,418
+locality,Tughlakabad,3696
+locality,Shakti Nagar,3342
+locality,Batla House Okhla,430
+locality,Yamuna Vihar,3986
+locality,Sagar Pur,3006
+locality,Madhu Vihar,2018
+locality,Block AP Poorvi Pitampura,546
+locality,Lajpat Nagar Vinoba Puri,1924
+locality,Block E Lajpat Nagar I,553
+locality,Munirka Enclave,2307
+locality,Central Market Lajpat Nagar II,646
+locality,F Block Lajpat Nagar I,1021
+locality,Sector 38 Rohini,3221
+locality,Vinod Nagar North,3892
+locality,Malka Ganj,2085
+locality,Chattarpur Enclave,689
+locality,Ramesh Nagar Road,2902
+locality,Paryavaran Complex Main,2666
+locality,IGNOU Road,1335
+locality,D1C Block Lajwanti Garden,800
+locality,Mangolpuri,2119
+locality,Sector 37 Rohini,3220
+locality,Gokalpur,1126
+locality,Kailash Puri,1553
+locality,New Kondli,2498
+locality,Duggal Colony,945
+locality,Sadulajab,3002
+locality,Block H Lajpat Nagar I,556
+locality,Karala,1647
+locality,Paharganj,2600
+locality,Jaitpur,1418
+locality,Mundka,2302
+locality,DDA Flats Kalkaji,801
+locality,SFS Flats Saket,2979
+locality,Tihar Village,3657
+locality,Begumpur Road,444
+locality,Kalyan Vihar,1588
+locality,Sewa Nagar,3322
+locality,GTB Enclave,1043
+locality,Tilangpur Kotla,3664
+locality,Suraj Vihar,3547
+locality,Gurgaon Delhi Expressway,1202
+locality,Gagan Vihar,1050
+locality,Babarpur,302
+locality,East Patel Nagar,979
+locality,Hargobind Enclave,1250
+locality,Dayanand Vihar,842
+locality,Saini Enclave,3024
+locality,Vigyan Vihar,3858
+locality,Residential Flat Malviya Nagar Extension,2945
+locality,Sidharth Ext,3428
+locality,Siddhartha Extension,3425
+locality,BF Block,287
+locality,48 Sector 22 Road,27
+locality,Sector 35 Rohini,3216
+locality,Mukhram Garden,2281
+locality,Block SU Uttari Pitampura,561
+locality,QU Block Uttari Pitampura,2806
+locality,Indra Enclave,1361
+locality,Dev Nagar,867
+locality,Noida,2536
+locality,Ramesh Nagar raja garden bali nagar,2903
+locality,Paschim Vihar Block A 5,2670
+locality,Ansari Nagar East,213
+locality,Block I Lajpat Nagar II,557
+locality,Vinod Nagar West,3893
+locality,Narela,2405
+locality,Madanpur Khadar Village,2004
+locality,Mahipalpur Extention,2061
+locality,South Patel Nagar,3484
+locality,Panchshila Park South,2636
+locality,Pocket 4 Sector C,2731
+locality,GTB Nager,1045
+locality,Anand Lok,171
+locality,Diplomatic Enclave,912
+locality,Sector 15A,3162
+locality,Gupta Enclave,1201
+locality,Greater Kailash N Block,1165
+locality,Block D Kailash Colony,549
+locality,Sheikh Sarai Village,3368
+locality,Mayur Vihar Phase 2,2191
+locality,Gazipur,1087
+locality,Shahabad Mohammadpur,3328
+locality,Mukherji Park,2280
+locality,Budh Vihar,615
+locality,Kotla Mubarakpur,1854
+locality,Sector 4,3222
+locality,Vaishali,3757
+locality,Sector 5,3226
+locality,Sector 6,3232
+locality,Om Enclave Mithapur Extension,2572
+locality,Ram Prastha Colony,2882
+locality,Sector 9,3247
+locality,Delhi,854
+locality,Aya Nagar Bandh Road,265
+locality,Westend,3967
+locality,Jain Road,1417
+locality,Sant Nagar East Of Kailash Road,3071
+locality,Major Bhola Nath Colony,2072
+locality,Anand Kunj,170
+locality,60 Feet Road,34
+locality,Sector B Pocket 8,3253
+locality,Block UU Uttari Pitampura,562
+locality,Madhu Vihar Delhi,2019
+locality,Ratan Park,2925
+locality,Bijwasan,538
+locality,Sudarshan Park,3524
+locality,Baljit Nagar,355
+locality,Hari Enclave,1251
+locality,Sabzi Mandi Old,2992
+locality,Gharoli Dairy Farm,1097
+locality,Anarkali Colony South Anarkali Colony,184
+locality,Radhey Shyam Park,2840
+locality,South Anarkali Anarkali Colony,3472
+locality,best residency apartment delhi dwarka sector 19,4021
+locality,Shakarpur Khas,3340
+locality,Bawana,434
+locality,Block C Lajpat Nagar I,547
+locality,New Moti Nagar,2503
+locality,Double Storey New Rajinder Nagar,939
+locality,Shakarpur,3338
+locality,Brijwasan,609
+locality,Deenpur,845
+locality,Rama Vihar,2884
+locality,Vigyan Lok,3857
+locality,Yojna Vihar,4006
+locality,Jitar Nagar,1478
+locality,South Anarkali Delhi,3473
+locality,Naveen Kunj Society,2426
+locality,Chattarpur Enclave Phase 2,690
+locality,east delhi,4040
+locality,Samay Pur,3047
+locality,Jagat Ram Park,1406
+locality,Delhi Metropolitan Area Bhawani Kunj,858
+locality,Prakash Mohalla,2761
+locality,West Vinod Nagar,3966
+locality,Sector 26 Dwarka,3205
+locality,Dwarka More,959
+locality,East Kidwai Nagar,976
+locality,Razapur Khurd,2933
+locality,West Patel Nagar Road,3961
+locality,Ismailpur,1372
+locality,Chand Nagar,662
+locality,Govindpura,1154
+locality,Vivek Vihar Phase I,3921
+locality,Vivek Vihar Phase II Delhi,3922
+locality,Gadaipur Bandh Road,1048
+locality,Vikram Nagar,3874
+locality,Phase 2 Chattarpur Enclave,2706
+locality,Azadpur,276
+locality,Delhi Meerut Expressway,857
+locality,Nangloi,2384
+locality,S D A New,2971
+locality,Old Delhi,2558
+locality,Punjabi Bagh Bhagwan Das Nagar,2788
+locality,Ratan Park Delhi,2926
+locality,Block WZ Basai Dara pur,563
+locality,Mansarovar garden,2142
+locality,Sector 16 Dwarka,3164
+locality,Ansal Satbari,212
+locality,Dwarka Sec6 Market,962
+locality,Nasirpur,2418
+locality,Sector 10 Rohini,3143
+locality,Anand Parbat,176
+locality,Chilla Sarda Bangar Chilla Sarda Bangar Village,734
+locality,Trilokpuri,3692
+locality,Chanakya Puri,659
+locality,Sector 21 Dwarka,3186
+locality,New Ashok Nagar Block E,2486
+locality,Tagore Garden,3571
+locality,Lodhi Road,1961
+locality,Block DP Poorvi Pitampura,551
+locality,Block MP Poorvi Pitampura,558
+locality,Mahavir Enclave Bengali Colony,2050
+locality,Pitampura Block NP,2724
+locality,Rama Park Block B,2883
+locality,Saidabad,3020
+locality,Sector 7 Rohini,3240
+locality,Kabool Nagar,1532
+locality,Shahabad Daulatpur Village,3327
+locality,New Rajinder Nagar,2508
+locality,Ibrahimpur,1345
+locality,Prem Nagar,2769
+locality,B K Dutt Colony,281
+locality,Prashant Vihar,2764
+locality,Kailash Enclave Harsh Vihar,1551
+locality,Civil Lines,775
+locality,Sherpur,3376
+locality,Dr Mukherjee Nagar West Bhai Parmanand Colony,940
+locality,Block QP Poorvi Pitampura,559
+locality,Pitampura KP Block,2725
+locality,Naraina Vihar,2388
+locality,Naraina Village,2389
+locality,CP Block Road,635
+locality,Mandoli,2109
+locality,Khera Khurd,1742
+locality,Pant Nagar,2646
+locality,dwarka sector 19,4038
+locality,Bharthal,500
+locality,Chandan Hola,663
+locality,Ram Datt Enclave,2880
+locality,Uttam Nagar Vani Vihar,3735
+locality,GTB Nagar,1044
+locality,Nirankari Colony,2529
+locality,Vani Vihar New Uttam Nagar,3775
+locality,Burari Kamal Vihar,621
+locality,Colonelganj,783
+locality,Mukundpur,2284
+locality,Baljeet Nagar,354
+locality,Model Town Phase3,2244
+locality,Loni,1970
+locality,param puri,4111
+locality,Uttam Nagar Subhash Park Extn,3734
+locality,Sadar Bazaar,2995
+locality,Vinod Nagar East,3891
+locality,Gold Valley,1131
+locality,Sector 24 Rohini,3202
+locality,Shanti Mohalla,3354
+locality,Uttam Nagar East,3733
+locality,Club Road Flyover,778
+locality,Sector17 Rohini,3286
+locality,Mandi,2107
+locality,Kalkaji Main,1574
+locality,West Sagarpur,3962
+locality,Ashok Vihar Phase-1,237
+locality,Dilshad Colony,909
+locality,Karawal Nagar,1652
+locality,Govindpuri Extension,1156
+locality,Chhajjupur,710
+locality,Sarai Rohilla,3087
+locality,Okhla Industrial Area,2554
+locality,New Rohtak Road Karol Bagh,2510
+locality,Shakarpur Extension,3339
+locality,Chandni Chowk,677
+locality,Begampur Park,439
+locality,Mahavir Enclave Part 2,2051
+locality,Krishan Vihar,1867
+locality,Siraspur,3446
+locality,Mithapur,2239
+locality,Kishangarh Village New Delhi,1764
+locality,Shaheen Bagh Jasola Vihar,3331
+locality,Block C4F,548
+locality,Vikram Vihar Lajpat Nagar IV,3876
+locality,Avantika Sector 1,261
+locality,Model Town Phase-1,2243
+locality,jangpura bhogal,4059
+locality,Satyawati nagar,3129
+locality,Shivalik Colony,3402
+locality,Qutub Vihar,2811
+locality,Subzi Mandi,3522
+locality,Laxmi Bai Nagar,1945
+locality,Laxmi Vihar,1949
+locality,Kishangarh Gaushala Marg,1762
+locality,Delhi Gymkhana Club,856
+locality,Bharat Vihar,495
+locality,Sector 34 Rohini,3215
+locality,Serilingampally,3316
+locality,Sri Nagar Colony,3490
+locality,Shaikpet,3337
+locality,Nanakramguda,2374
+locality,Kondapur,1814
+locality,manneguda,4094
+locality,Manikonda,2120
+locality,Jubilee Hills,1497
+locality,Gajularamaram,1053
+locality,Narsingi,2416
+locality,Begumpet,440
+locality,Kukatpally,1882
+locality,LB Nagar,1914
+locality,Banjara Hills,394
+locality,Nallagandla Gachibowli,2367
+locality,Trimalgherry,3693
+locality,Meerpet,2205
+locality,Gachibowli,1046
+locality,AS Rao Nagar,54
+locality,Nizampet,2532
+locality,Kapra,1644
+locality,Puppalaguda,2791
+locality,Chandanagar,665
+locality,Aminpur,160
+locality,Hitech City,1299
+locality,Madhapur,2011
+locality,Mehdipatnam,2208
+locality,Hyderabad Shah Guda,1331
+locality,Moosapet,2259
+locality,Syed Ali Guda,3561
+locality,Kothapet,1847
+locality,Rani Gunj,2913
+locality,Suraram,3551
+locality,Hafeezpet,1228
+locality,Sanath Nagar,3056
+locality,Pocharam,2728
+locality,Old Bowenpally,2557
+locality,Attapur,246
+locality,Abids,59
+locality,Nagaram Hyderabad South,2340
+locality,Miyapur,2240
+locality,West Marredpally,3959
+locality,Bandlaguda Jagir,377
+locality,Saroornagar,3106
+locality,Dilsukh Nagar,911
+locality,Alwal,126
+locality,BHEL,288
+locality,Amberpet,148
+locality,Quthbullapur,2809
+locality,Bapu Nagar,407
+locality,Adibatla,81
+locality,Toli Chowki,3681
+locality,Nagole,2353
+locality,Shamshabad,3349
+locality,Mettuguda,2216
+locality,Medchal,2199
+locality,Old Malakpet,2560
+locality,Boduppal,570
+locality,Vijaya Nagar Colony,3866
+locality,Jagadgiri Gutta,1404
+locality,Rasoolpura,2923
+locality,Narapally,2392
+locality,Yapral,3987
+locality,Khajaguda Nanakramguda Road,1720
+locality,Yousufguda,4007
+locality,B N reddy nagar,282
+locality,Gandipet,1064
+locality,Mahendra Hills,2054
+locality,Masab Tank,2177
+locality,Qutub Shahi Tombs,2810
+locality,Bolarum,574
+locality,Kothaguda,1845
+locality,Chinthal Basthi,750
+locality,Kokapet,1790
+locality,Saroor Nagar,3105
+locality,Ameerpet,157
+locality,Erragadda,1017
+locality,Shanthi Nagar,3353
+locality,BalajiNagar,342
+locality,Punjagutta,2789
+locality,Narayanguda,2402
+locality,Gowlidody,1158
+locality,Borabanda,592
+locality,Patancheru,2674
+locality,raidurgam,4117
+locality,Osman Nagar,2580
+locality,Raghavendra Colony Manikonda,2843
+locality,Neknampur,2463
+locality,Bollaram Industrial Area,577
+locality,Bahadurpally,328
+locality,Lakdikapul,1925
+locality,Shilpa Hills,3385
+locality,Kanchan Bagh,1619
+locality,Pragathi Nagar Kukatpally,2755
+locality,Botiguda,603
+locality,Ramachandra Puram,2886
+locality,Upparpally,3722
+locality,Badesahebguda,314
+locality,Bowenpally,605
+locality,Appa Junction Peerancheru,220
+locality,Himayat Nagar,1290
+locality,Chintalmet,748
+locality,Bachupally,307
+locality,Hyder Nagar,1330
+locality,Indramma Nagar,1362
+locality,Cherlapalli,705
+locality,Gopanpally,1142
+locality,Tellapur,3603
+locality,Adikmet,82
+locality,Asif Nagar,244
+locality,Sanjeeva Reddy Nagar,3066
+locality,Kachiguda,1535
+locality,Nallakunta,2369
+locality,Officers Colony,2550
+locality,Uppal Kalan,3721
+locality,Habsiguda,1225
+locality,Somajiguda,3462
+locality,Vanasthalipuram,3770
+locality,Uppal,3719
+locality,Hyderguda,1332
+locality,Balakampet,343
+locality,Yellareddy Guda,3997
+locality,Nacharam,2333
+locality,Tarnaka,3591
+locality,Balkampet,356
+locality,Ramanthapur,2892
+locality,Padmarao Nagar,2596
+locality,Jawahar nagar,1453
+locality,Koti,1851
+locality,East Marredpally,978
+locality,Moosarambagh Road,2260
+locality,Kavadiguda,1697
+locality,Malakpet,2079
+locality,Karwan,1666
+locality,Sainikpuri,3027
+locality,Karkhana,1656
+locality,Friends Colony Hyderabad,1037
+locality,Prayathi Nagar,2767
+locality,Medinaguda,2200
+locality,Jagruthi Colony Raghavendra Colony,1411
+locality,Telecom Nagar,3600
+locality,KTR Colony Road Number 2,1530
+locality,KTR Colony Hyderabad,1529
+locality,Gajilaramavaram,1052
+locality,sriram nagar kondapur,4130
+locality,Anjaiah Nagar,197
+locality,Malkajgiri,2086
+locality,Ayyappa Society,272
+locality,Madhavapuri Hills PJR Layout,2015
+locality,PJR Nagar,2589
+locality,Malaysian Township Hyderabad,2081
+locality,Kompally,1805
+locality,Rein Bazaar,2939
+locality,Gurram Guda,1203
+locality,Kushaiguda,1905
+locality,Santoshnagar,3082
+locality,Suchitra,3523
+locality,Chinthal,749
+locality,Moula Ali,2269
+locality,Salarjung Colony,3037
+locality,Jai Bharat Nagar,1413
+locality,financial District,4044
+locality,Gaddi Annaram,1049
+locality,Deepthisri Nagar,848
+locality,Hayathnagar,1269
+locality,Gowlipura,1159
+locality,Alkapur,118
+locality,Jai Suryapatnam,1415
+locality,Gandi Maisamma,1063
+locality,SR Nagar,2986
+locality,A C Guards,47
+locality,Hakimpet,1230
+locality,Tatianaram,3595
+locality,Banjara Hills Road Number 10,396
+locality,7 Tombs Road,38
+locality,Kismatpur,1765
+locality,Lingampally,1954
+locality,Edi Bazaar,988
+locality,Ramnas Pura,2908
+locality,Patel Guda,2676
+locality,Begumpet Road,442
+locality,Rambagh Colony,2897
+locality,Raja Rajeswari Nagar,2858
+locality,Chengicherla,702
+locality,Kousalya Colony Road,1858
+locality,Telecom Nagar Extension,3601
+locality,Kamalaprasad Nagar,1595
+locality,Buddha Nagar,613
+locality,Madaram,2005
+locality,Nampally,2372
+locality,Madhapur Ayyappa Society,2012
+locality,Falaknuma,1023
+locality,Khairatabad Road,1719
+locality,Venkataramana Colony,3835
+locality,Botanical Garden Road Kondapur,602
+locality,Gundlapochampalli,1194
+locality,Chanchalguda,661
+locality,Venkatagiri,3833
+locality,Balanagar,344
+locality,Chaitanya Enclave,650
+locality,Skandagiri,3453
+locality,Rajapur,2862
+locality,Military Dairy Farm Road,2226
+locality,Kartik Enclave New Bowenpally,1660
+locality,Pocharam South Hyderabad,2730
+locality,New Bowenpally X Road,2489
+locality,Gopanapalli,1141
+locality,Gajulramaram Kukatpally,1054
+locality,Vediri Township,3812
+locality,Jillelguda,1477
+locality,Rajendra Nagar,2869
+locality,Jeedimetla,1468
+locality,Karmanghat,1657
+locality,Ghatkesar,1098
+locality,Khajiguda,1721
+locality,Gopal Reddy Nagar,1137
+locality,Zamistanpur,4010
+locality,Sri Venkateshwara Colony,3493
+locality,ISB Ring Road,1339
+locality,Chitrapuri Colony,755
+locality,Pasha Colony,2671
+locality,vivekananda Nagar,4141
+locality,Baghdad Nagar,324
+locality,Gopalnagar Society,1140
+locality,Vinayak Nagar Colony Hyderabad,3888
+locality,Mallapur,2088
+locality,Bowrampet,606
+locality,MLA Colony Road Number 12,1988
+locality,HS Darga Hyderabad,1219
+locality,Czech Colony Hyderabad,797
+locality,Kowkur,1863
+locality,Domalguda,929
+locality,Golden Heights Road,1132
+locality,Komatikunta,1803
+locality,Aparna Hill Park,218
+locality,Sathya Colony,3124
+locality,Khizra Enclave,1747
+locality,kondapur jankshan,4080
+locality,100 Feet Road,3
+locality,Balram Nagar,364
+locality,Madhava Hills Estates,2014
+locality,Galaxy,1055
+locality,Bagath Singh Nagar Phase 2,321
+locality,Phase VI LIG Flats,2707
+locality,Balaji Colony,339
+locality,Vikrant Residency,3877
+locality,Srinivasa Nagar Colony Hyderabad,3498
+locality,Kollur,1798
+locality,Mansoorabad,2144
+locality,Boiguda,571
+locality,BK Guda Road,291
+locality,New Hafeezpet Hyderabad,2496
+locality,Ameenpur Plots,155
+locality,Zaheerabad,4009
+locality,Jam Bagh,1430
+locality,Hanamkonda,1238
+locality,Upperpally,3724
+locality,Road No7 NIN Colony,2955
+locality,Weaker Section Colony,3954
+locality,Pragathi Nagar Main,2756
+locality,Nawab Saheb Kunta,2434
+locality,Neeladri Nagar,2450
+locality,Trimulgherry,3694
+locality,3rd Phase KPHB,25
+locality,Banjara Hills Main Road,395
+locality,kukatpally housing board,4083
+locality,Alluri Seetaramaraju Nagar,121
+locality,Nagaram,2339
+locality,Chintalakunta,747
+locality,Saptagiri Colony,3086
+locality,Venkatadri Colony,3831
+locality,New Mallepally,2501
+locality,Medak,2197
+locality,6th Phase KPHB,35
+locality,VIP Hills,3745
+locality,Hitex,1300
+locality,Mallampet,2087
+locality,Avanti Nagar,260
+locality,Tolichowki Road,3682
+locality,9th Phase Road,46
+locality,Thumkunta,3653
+locality,Sri Durga Colony,3486
+locality,Sri Sai Nagar,3492
+locality,Puppalguda,2792
+locality,Methodist Colony,2211
+locality,Begumpet Main Road,441
+locality,Uma Nagar,3713
+locality,Ameerpet Road,158
+locality,Banjara Hills Road Number 12,397
+locality,Kundan Bagh Road,1896
+locality,Warasiguda,3948
+locality,Toopran,3685
+locality,Allwyn Colony,122
+locality,Neredmet X Road Vayupuri Sainikpuri X Road,2477
+locality,Kistareddypet,1768
+locality,Balapur,345
+locality,Bairagiguda,332
+locality,Whisper Valley,3973
+locality,Rampally,2909
+locality,Nalanda Nagar Srimallenagar Colony,2363
+locality,Raja Rajeshwara Nagar,2856
+locality,Deen Dayal Nagar,844
+locality,Mayuri Nagar,2193
+locality,Deluxe Colony,859
+locality,Peeramcheru,2693
+locality,Auto Nagar,256
+locality,Alkapur township,119
+locality,Vengalarao Nagar,3827
+locality,Old Nallakunta,2562
+locality,Beeramguda,438
+locality,Laxmiguda,1950
+locality,Yamnampet,3984
+locality,Rudraram,2967
+locality,muthangi,4100
+locality,Neredmet,2475
+locality,Mettakanigudem,2215
+locality,Aziz Bagh Colony,278
+locality,Bahadurpura,329
+locality,Sun City,3537
+locality,Badangpet,311
+locality,Safilguda,3005
+locality,Kompally Road,1806
+locality,Venkat Nagar Colony,3830
+locality,Gunrock Enclave,1199
+locality,Gandhinagar,1062
+locality,Jubille Hills Road,1498
+locality,Bhagyanagar Colony Kukatpally,484
+locality,Shadnagar,3326
+locality,Kondapur Police Colony Road,1815
+locality,Bapu Bagh Colony Road,406
+locality,Pragathi Nagar,2754
+locality,Saraswathi Colony,3089
+locality,Rail Vihar,2849
+locality,Rajiv Gandhi Nagar Colony,2872
+locality,Krishna Reddy Pet,1870
+locality,Moinabad,2254
+locality,Kondakal,1813
+locality,Neredmet Sainikpur X Road,2476
+locality,Golconda Qila,1130
+locality,Shivam Road  Amberpet,3403
+locality,Dammaiguda,823
+locality,Appa Junction,219
+locality,Navodaya Colony,2429
+locality,Green Hills Road,1170
+locality,East Anand Bagh,970
+locality,Anjaneya Nagar,201
+locality,Mahadevpur Colony,2035
+locality,Vijay Nagar Colony Road,3862
+locality,P Janardhan Reddy Nagar,2584
+locality,Chinthal Quthbullapur,751
+locality,CBCID Colony,631
+locality,Talab Katta,3575
+locality,Almasguda,123
+locality,Tirumalgiri,3672
+locality,Langer House,1939
+locality,Dharam Karam Road Ameerpet,891
+locality,Road No 10 Banjara Hills,2954
+locality,chandrayangutta,4027
+locality,Ameenpur Village Patancheru,156
+locality,Azamabad,277
+locality,Babamma Colony,301
+locality,Pragati Nagar,2757
+locality,Siddhi Vinayak Nagar,3426
+locality,Bhagath Singh Nagar,482
+locality,Ravindra Nagar Colony,2928
+locality,Kismatpur Road,1766
+locality,Kurmaguda,1903
+locality,Madinaguda,2022
+locality,Champapet,657
+locality,TurkaYamjal,3703
+locality,Gowdavalli,1157
+locality,Venkatraya Nagar,3838
+locality,Krishna Nagar Colony,1869
+locality,Gouri Shankar Nagar Colony,1151
+locality,Nallagandla Road,2368
+locality,Gayatri Nagar Borabanda,1086
+locality,Korremula Road,1841
+locality,Patancheru Mandal,2675
+locality,Pathar Gatti,2678
+locality,Bollaram,576
+locality,Hafiz Baba Nagar,1229
+locality,Thorrur Village,3649
+locality,Jalapalli,1427
+locality,Alair,113
+locality,Jayanagar New Bowenpally,1464
+locality,Chaitanyapuri Colony,651
+locality,BHEL Vidyut Nagar,290
+locality,Maheshwaram,2056
+locality,Sadashivpet,2998
+locality,Shalivahana Nagar,3347
+locality,Mokila,2255
+locality,Laxmi Nagar Colony,1947
+locality,Kanajiguda,1612
+locality,Munganoor,2305
+locality,Nadergul,2334
+locality,Gatkeshwar,1082
+locality,Janachaitanya Colony,1439
+locality,NFC Nagar,2323
+locality,Raviryal,2929
+locality,Hussaini Alam,1327
+locality,Devatabowli,872
+locality,Nallagandla Fly over,2366
+locality,Chandanagar Vill,666
+locality,Mahbubnagar,2053
+locality,Happy Homes Colony,1246
+locality,Migh Colony,2224
+locality,Asif Nagar North,245
+locality,Rakshapuram,2879
+locality,Huda Colony,1318
+locality,KPHB Phase 2,1526
+locality,Ramachandrapuram,2887
+locality,Ferozguda,1027
+locality,Uppal Bus Stop Road,3720
+locality,Sri Krishna Nagar,3489
+locality,Sitaphalmandi,3449
+locality,Panchavati Colony,2632
+locality,Golconda Fort,1129
+locality,Masjid Banda,2178
+locality,Bachupally Road,308
+locality,Neeraj Colony,2456
+locality,Dabeerpura,809
+locality,Gachibowli Miyapur Road,1047
+locality,Ramgopalpet,2905
+locality,Bongloor,585
+locality,NEW MALAKPET,2322
+locality,BHEL OLD MIG,289
+locality,HMT Swarnapuri Colony Hyderabad,1216
+locality,K P H B 9 Phase,1516
+locality,Secunderabad Railway Station Road,3303
+locality,Peerzadiguda,2694
+locality,Hakimpet Hyderabad Karimnagar Highway,1231
+locality,Sangareddy,3062
+locality,PJR Layout,2588
+locality,Linghampally,1957
+locality,Ahmedguda,95
+locality,Q City Road,2805
+locality,Jayanagar Colony,1462
+locality,BegumpetBrahmanvadi Road,443
+locality,Bachupaly Road Miyapur,309
+locality,Korremula,1840
+locality,Regimental Bazaar,2938
+locality,Vinay Nagar,3886
+locality,Humayunagar,1323
+locality,Naveen Nagar,2427
+locality,Mangalpally,2114
+locality,Budvel,618
+locality,Manikonda Road,2121
+locality,Annojiguda,211
+locality,Isnapur,1373
+locality,Secretariat Colony,3136
+locality,Pocharam Near Muthangi,2729
+locality,KPHB,1525
+locality,Sindhi Colony Road,3431
+locality,Vattinagulapally,3807
+locality,Manchirevula,2104
+locality,Punjagutta Market,2790
+locality,Umdanagar,3714
+locality,Medipally,2201
+locality,Chenna Reddy Nagar,703
+locality,Gudimalkapur,1180
+locality,Dwarakapuri,956
+locality,Dundigal,953
+locality,Ameenpur,154
+locality,Hasmathpet,1261
+locality,Kistamma Enclave,1767
+locality,Tukaram Gate,3698
+locality,Musheerabad Zamistanpur,2316
+locality,silpa park,4125
+locality,Srinivasa Colony,3496
+locality,PJR Enclave Road,2587
+locality,Venkatapuram Alwal Secundrabad,3834
+locality,Sodepur,3458
+locality,south dum dum,4129
+locality,Sector 22,3193
+locality,Lake Gardens,1926
+locality,Dhapa,890
+locality,Dum Dum,947
+locality,Kankurgachi,1634
+locality,Mukundapur,2283
+locality,Joka,1491
+locality,Jadavpur,1398
+locality,Santoshpur,3083
+locality,Jodhpur Park,1484
+locality,Ganguly Bagan,1070
+locality,Panihati,2643
+locality,New Town,2514
+locality,Rahara,2845
+locality,Bansdroni,401
+locality,Salt Lake City,3041
+locality,Santragachi,3084
+locality,Madhyamgram,2021
+locality,Picnic Garden,2712
+locality,Dankuni,826
+locality,New Barrakpur,2488
+locality,Sarsuna,3108
+locality,Tollygunge,3683
+locality,Kasba,1671
+locality,Haltu,1236
+locality,Uluberia,3711
+locality,Baguihati,327
+locality,Maniktala,2123
+locality,Konnagar,1824
+locality,Bhowanipore,523
+locality,Kamalgazi,1596
+locality,Kamdahari,1604
+locality,Jagadishpur,1405
+locality,Agarpara,91
+locality,Thakurpukur,3613
+locality,Beliaghata,461
+locality,Madurdaha Hussainpur,2027
+locality,Kaikhali,1548
+locality,Gupta Colony,1200
+locality,birati,4024
+locality,Gariahat,1077
+locality,Ward No 113,3949
+locality,Shibpur,3378
+locality,Howrah Railway Station,1316
+locality,Behala,448
+locality,New Alipore,2484
+locality,Rajarhat,2863
+locality,Ichhapur Defence Estate,1347
+locality,Uttarpara Kotrung,3742
+locality,Sector 25,3203
+locality,Keshtopur,1715
+locality,Nayabad,2437
+locality,Garia,1076
+locality,Bhawanipur,510
+locality,Topsia,3687
+locality,Howrah,1314
+locality,Bramhapur,607
+locality,Netaji Nagar,2482
+locality,Regent Park,2937
+locality,Tagore Park,3573
+locality,Alipore,117
+locality,kalikapura,4067
+locality,Paschim Putiary,2668
+locality,Baghajatin,323
+locality,Patuli,2685
+locality,VIP Nagar,3746
+locality,Dunlop,954
+locality,Tiljala,3666
+locality,Barrackpore,416
+locality,Chinar Park,736
+locality,Lake Town,1928
+locality,Kamardanga,1599
+locality,East Kolkata Township,977
+locality,sahakara nagar,4121
+locality,Saha Para,3008
+locality,Pancha Sayar,2630
+locality,Narendrapur,2407
+locality,Kalighat,1566
+locality,Ballygunge,359
+locality,Barasat,413
+locality,Elgin,1005
+locality,Hussainpur,1328
+locality,Bhatpara,504
+locality,Tangra,3588
+locality,Kustia,1906
+locality,Golf Green,1133
+locality,Park Street Area,2658
+locality,Airport,99
+locality,Peenya,2691
+locality,Dhakuria,879
+locality,Bhatenda,503
+locality,Barisha Purba Para Road,415
+locality,Maheshtala,2055
+locality,Sonarpur,3469
+locality,Kalikapur,1567
+locality,Baguiati,325
+locality,Phool Bagan,2709
+locality,Belghoria,460
+locality,Ariadaha,228
+locality,Dakshineswar,822
+locality,Kamarhati on BT Road,1600
+locality,Purba Putiary,2795
+locality,Garfa,1074
+locality,Ghosh Para,1114
+locality,Entally,1014
+locality,Ram Nagar,2881
+locality,Liluah,1952
+locality,Pansila,2645
+locality,raghunathpur,4115
+locality,Chingrighata Flyover,743
+locality,Sector IV Salt Lake,3258
+locality,deshbandhu nagar,4032
+locality,Dum Dum Metro,949
+locality,New Garia,2494
+locality,Lake View Road,1930
+locality,Shreebhumi,3413
+locality,Chingrighata,742
+locality,Prince Anwar Shah Rd,2772
+locality,Parnashree,2660
+locality,Radhanath Chowdhury Road,2837
+locality,Nayabad Daspara,2438
+locality,Convent Road,785
+locality,Selimpur,3309
+locality,Camac Street,639
+locality,Parnasree Pally,2661
+locality,Sector II - Salt Lake,3255
+locality,Behala Thana,452
+locality,Sealdah,3134
+locality,Nager Bazar,2352
+locality,Elliot Road,1008
+locality,Bosepukur,600
+locality,Nr Ballygunge circular road,2539
+locality,Sunny Park,3546
+locality,Elgin Road,1006
+locality,Minto Park,2232
+locality,Khidirpur,1744
+locality,East Topsia,981
+locality,Action Area I,64
+locality,Jadavpur Central Road,1399
+locality,Behala Sakher Bazar,451
+locality,Bijoygarh,536
+locality,Budge Budge,614
+locality,Action Area I Newtown,65
+locality,Picnic Garden Road,2713
+locality,Southern Avenue,3485
+locality,Rash Behari,2921
+locality,Hindustan Park,1291
+locality,Sulekha,3532
+locality,Dasnagar,835
+locality,Anandapur,180
+locality,Dhakuria Station Road,880
+locality,Golpark,1136
+locality,Mudially,2274
+locality,E M Bypass,966
+locality,Baranagar,412
+locality,Naktala,2360
+locality,Naktala Road,2361
+locality,Shyamnagar,3420
+locality,Salkia,3040
+locality,Noapara,2535
+locality,Dum Dum Cantonment,948
+locality,James Long Sarani Behala,1437
+locality,Barisha,414
+locality,Old Seemapuri,2567
+locality,EM Bypass South East,967
+locality,Bonhooghly on BT Road,586
+locality,Dhadka,878
+locality,Bangur avenue,393
+locality,rajarhat newtown,4119
+locality,Mahisbathan Kolkata,2062
+locality,Survey Park,3552
+locality,Kuldiha,1884
+locality,Bijoygarh Sree Colony,537
+locality,Ichlabad,1348
+locality,Botanical Garden Area,601
+locality,Kona Expressway,1808
+locality,Park Circus,2655
+locality,Kestopur,1716
+locality,Bow Bazaar,604
+locality,Lake Terrace Road,1927
+locality,Dum Dum Park,950
+locality,Kabardanga,1531
+locality,Rishra,2950
+locality,Ultadanga,3710
+locality,Andul,194
+locality,Behala Manton,450
+locality,Behala Chowrasta,449
+locality,Serampore,3315
+locality,Kalyani,1590
+locality,Hridaypur,1317
+locality,Salap,3036
+locality,Mourigram,2272
+locality,M G ROAD Haridevpur,1975
+locality,Selimpur Road,3310
+locality,Baguiati Hela Battala,326
+locality,Jagatdal,1407
+locality,Baishali Park,333
+locality,Ripon street,2949
+locality,Dum Dum Road,951
+locality,Sheoraphuli,3373
+locality,Topsia Road,3688
+locality,Beleghata Main Road,458
+locality,Bhadreswar,481
+locality,Bally,358
+locality,Rodkol Road,2956
+locality,Shyamnagar Road,3421
+locality,Kasba Siemens,1673
+locality,R B Connector,2812
+locality,Jessore Road,1470
+locality,Ichapur,1346
+locality,Durganagar,955
+locality,Paikpara,2602
+locality,GARIA STATION ROAD,1041
+locality,Basuri Bagan,428
+locality,College Square,782
+locality,Anandapuri,181
+locality,salt lake sec iii,4122
+locality,Sector V,3260
+locality,Metropolitan CoOperative Housing Society Limited Tangra,2214
+locality,Khalisha Kota,1724
+locality,Baruipur,417
+locality,North Dumdum,2538
+locality,Nawapara,2436
+locality,Bondal Gate,583
+locality,Bikramgarh,540
+locality,Rajbari,2868
+locality,Jorabagan,1493
+locality,Parui Mauza,2662
+locality,Gauranganagar,1083
+locality,VIP Haldiram,3744
+locality,Narayanpur,2403
+locality,Chandannagar,668
+locality,Jodhpur Gardens,1483
+locality,Katju Nagar,1685
+locality,Poddar Nagar,2732
+locality,Nazirabad,2441
+locality,Kumarkhali,1888
+locality,Bediadanga,437
+locality,Buroshibtala,622
+locality,Kudgat,1876
+locality,Park Side Road,2656
+locality,Residential Flat Haridevpur,2944
+locality,Nimta,2528
+locality,Purba Sinthee Bye Lane,2796
+locality,Metiabruz,2212
+locality,Hedua,1273
+locality,Raja Bazar,2855
+locality,Action Area II,66
+locality,City Centre 1,774
+locality,Nazrul Islam Avenue,2442
+locality,Rajarhat Gopalpur,2865
+locality,Dash Drone,833
+locality,Action Area 1B,63
+locality,Airport road,102
+locality,Kolkata Airport Road,1797
+locality,VIP Road,3747
+locality,Ruby Hosp Main Road,2966
+locality,Halisahar Station Road,1235
+locality,Hanapara,1239
+locality,Action Area 1A,62
+locality,Raja Basanta Roy Road,2854
+locality,Haridebpur,1254
+locality,Kudghat Bridge,1877
+locality,Halisahar,1234
+locality,Bandel,376
+locality,Baidyabati,331
+locality,Titagarh,3677
+locality,Bipin Pal Road,545
+locality,Bangur,390
+locality,Jadubabur Bazar,1400
+locality,Tikiapara,3658
+locality,Garden Reach,1073
+locality,Duillya,946
+locality,Sukanta Nagar Sector IV,3529
+locality,Balia Garia Road,352
+locality,Digberia,906
+locality,Diamond Park,903
+locality,Balitikuri,353
+locality,Manikpur Rajbari,2122
+locality,City Center,773
+locality,Shyambazar,3419
+locality,Ballygunge Place East,362
+locality,Metropolitan,2213
+locality,Narkel Bagan New Town,2411
+locality,Andul Mauri,195
+locality,Chunavati,771
+locality,Sector 5 Road,3230
+locality,Rabindra Sarovar,2833
+locality,Ekdalia,993
+locality,Swiss Park,3560
+locality,Indian Institute Of Engineering Science And Technology,1356
+locality,Phoolbagan Crossing,2710
+locality,Bedia Danga Kasba,436
+locality,Akra,107
+locality,Belgachia,459
+locality,Milk Colony,2228
+locality,Pailan,2603
+locality,Kadam Tala,1539
+locality,Mudialy Road,2275
+locality,Rabindra Sarova Metro,2832
+locality,Pallisree,2621
+locality,Beniapukur,471
+locality,Mahamayatala,2042
+locality,purbalok,4114
+locality,Ajay Nagar,103
+locality,Barabazar Market,410
+locality,Lal Bazar,1935
+locality,Sahid Nagar Road,3013
+locality,Bidhan Pally,535
+locality,Prince Anwar Shah Road Tollygunge,2773
+locality,Purbachal Road,2797
+locality,Baishnabghata Patuli Township,334
+locality,Babu Bagan,305
+locality,Sukanta Nagar,3528
+locality,Banamalipur,365
+locality,Chetla,706
+locality,Park Street,2657
+locality,Ritchie Road,2951
+locality,Mayfair Road,2187
+locality,Ballygunge Circular Rd,360
+locality,Sarat Bose Road,3091
+locality,Gurusaday Road,1210
+locality,Iron Side Road,1368
+locality,Ballygunge Park,361
+locality,Hastings,1263
+locality,Shyam Bazar,3417
+locality,Mahisbathan Road,2063
+locality,Patipukur,2679
+locality,Mohisbathan,2253
+locality,Harinavi,1255
+locality,Mauza Panchpota,2184
+locality,New Town Rajarhat,2515
+locality,Kanchrapara Loco,1621
+locality,Tiljala Road,3667
+locality,Mandirtala,2108
+locality,Ponmar,2734
+locality,Narayantala West,2404
+locality,Belur,468
+locality,Newtown Action Area 1A,2517
+locality,Action Area IIB New Town,67
+locality,Bablatala Kalipark,304
+locality,Makardah,2074
+locality,Bangur Block C,391
+locality,Syed Amir Ali Avenue,3562
+locality,Basak Bagan,419
+locality,Beliaghata Main Road,463
+locality,Rashbehari,2922
+locality,Chkravarti Para,757
+locality,Eastend Park Kalikapur,985
+locality,Sector 1 Salt Lake City,3140
+locality,Sector II Salt Lake,3256
+locality,Bagbazar,322
+locality,Bangur Park,392
+locality,Tala,3574
+locality,FC Block Sector III,1022
+locality,Sector III,3257
+locality,Kankurgachi Main Road,1635
+locality,Mominpore,2256
+locality,Nepalgange,2471
+locality,Hazra,1270
+locality,Bondel Road,584
+locality,Khardah,1737
+locality,Taltala,3584
+locality,Jorasanko,1494
+locality,Bhojerhat,520
+locality,Russa Road South,2968
+locality,Howrah Maidan,1315
+locality,Aurobindo Park,253
+locality,Chinar park Rajharhat,737
+locality,Panchpota,2633
+locality,Rajarhat Chowmatha,2864
+locality,Hooghly Chinsurah,1304
+locality,Nabapally,2332
+locality,muchipara,4098
+locality,Dakshindari,821
+locality,Reckjoani Hospital Road,2934
+locality,Natagarh,2419
+locality,Airport Area,100
+locality,Jagacha,1403
+locality,Middleton street,2223
+locality,Palta,2623
+locality,Uttar Panchanna Gram,3738
+locality,Srirampur,3504
+locality,Lansdown,1940
+locality,Chitpur,754
+locality,Rasapunja,2919
+locality,Anandapally,179
+locality,Action Area III Of New Town Rajarhat,68
+locality,Thakurpukur Bazar,3615
+locality,Rajarhat main road,2866
+locality,Paschim Barisha,2667
+locality,Beliaghata Baruipur Canning Road,462
+locality,Bansdroni Metro Station Road,402
+locality,Mali Panchghara,2084
+locality,Jaffarpur Panchanantala,1401
+locality,Tribeni,3691
+locality,Dharampur,892
+locality,Chotto Chandpur,767
+locality,Thakurpukur 3A Bus Stand,3614
+locality,Banerjee Para Road,387
+locality,Andheri West,191
+locality,Andheri East,187
+locality,Mira Road East,2235
+locality,Goregaon East,1146
+locality,Ville Parle West,3882
+locality,Koper Khairane,1828
+locality,Malad West,2077
+locality,Borivali West,597
+locality,Malad East,2076
+locality,Juhu,1501
+locality,Kalyan West,1589
+locality,Dahisar,816
+locality,Thane West,3623
+locality,Powai,2745
+locality,Lower Parel,1973
+locality,Chembur,697
+locality,Rabale,2830
+locality,Dombivali East,931
+locality,Goregaon West,1147
+locality,Ulwe,3712
+locality,Airoli,96
+locality,Ghansoli,1094
+locality,Bhandup East,490
+locality,Panvel,2647
+locality,Parel,2652
+locality,Santacruz East,3073
+locality,Agripada,93
+locality,Bhandup West,492
+locality,Vikhroli,3872
+locality,Vasai West,3788
+locality,Belapur,453
+locality,Kalwa,1581
+locality,Ghatkopar East,1099
+locality,Mulund West,2291
+locality,Jogeshwari East,1486
+locality,Kandivali West,1625
+locality,kasaradavali thane west,4074
+locality,Mahim,2057
+locality,Karanjade,1649
+locality,Mulund East,2289
+locality,Bandra West,380
+locality,Dahisar Navi mumbai,818
+locality,Seawoods,3135
+locality,Naigaon East,2357
+locality,Ghatkopar West,1100
+locality,Bandra East,378
+locality,Worli,3981
+locality,Mira Road West,2236
+locality,Karal,1646
+locality,Dahisar West,819
+locality,Kurla,1900
+locality,Nerul,2480
+locality,Sarsole,3107
+locality,Thakurli,3612
+locality,lokgram,4088
+locality,Ville Parle East,3881
+locality,Kanjurmarg,1630
+locality,Dadar East,812
+locality,Greater Khanda,1166
+locality,Virar West,3897
+locality,Virar,3895
+locality,Marine Lines,2158
+locality,vile parle west,4140
+locality,Khar West,1734
+locality,Kharodi,1740
+locality,Mahalaxmi,2038
+locality,Prabhadevi,2750
+locality,Sion,3442
+locality,Mazagaon,2194
+locality,Jogeshwari West,1488
+locality,Dadar West,813
+locality,Thane East,3622
+locality,Taloja,3581
+locality,Kamothe,1609
+locality,Kharghar,1738
+locality,Girgaon,1118
+locality,Ambernath West,147
+locality,Byculla,625
+locality,Dombivali,930
+locality,Nilje Gaon,2525
+locality,Bhayandar West,512
+locality,Boisar,572
+locality,Colaba,779
+locality,Sanpada,3069
+locality,Vashi,3800
+locality,Dahisar East,817
+locality,Wadala,3928
+locality,Khar,1731
+locality,Neral,2472
+locality,Santacruz West,3074
+locality,Taloje,3583
+locality,Kandivali East,1624
+locality,Palava,2609
+locality,Kalu Nagar,1579
+locality,Dombivli (West),932
+locality,Kumbharkhan Pada,1890
+locality,Kalamboli,1556
+locality,Borivali East,596
+locality,Deonar,861
+locality,matunga east,4096
+locality,Bandra Kurla Complex,379
+locality,Nala Sopara,2362
+locality,Vasai,3786
+locality,Vasai east,3789
+locality,Kanjurmarg East,1631
+locality,Usarghar Gaon,3729
+locality,Kalyan East,1584
+locality,Shivaji Park,3397
+locality,Mazgaon,2195
+locality,Cuffe Parade,791
+locality,Kurla West,1902
+locality,Wadala East,3929
+locality,Malabar Hill,2075
+locality,Mankhurd,2136
+locality,Matunga,2183
+locality,Sector 20 Ulwe,3185
+locality,Mumbai Central,2294
+locality,Tardeo,3590
+locality,Kamathipura,1601
+locality,Pali Hill,2615
+locality,Sector 19 Kamothe,3176
+locality,MATUNGA WEST,1978
+locality,Sector 23 Ulwe,3200
+locality,Govandi,1152
+locality,Vikroli East,3878
+locality,Nariman Point,2410
+locality,Cumballa Hill,792
+locality,Churchgate,772
+locality,Napeansea Road,2386
+locality,mumbai,4099
+locality,Khar East,1733
+locality,Fort,1029
+locality,Gamdevi,1056
+locality,Sector 20 Kamothe,3183
+locality,Vichumbe,3847
+locality,Antarli,215
+locality,Hariyali,1256
+locality,Chandivali,671
+locality,Chinchpokli,739
+locality,Shil Phata,3382
+locality,Pestom Sagar Colony,2704
+locality,Kurla East,1901
+locality,Sector 17 Vashi,3170
+locality,Hiranandani Estates,1296
+locality,Daighar Gaon,820
+locality,Santosh Nagar,3081
+locality,VidyaVihar,3849
+locality,Sector 15 Kopar Khairane,3159
+locality,Virar East,3896
+locality,Dronagiri,944
+locality,Juhu Scheme,1503
+locality,Mahape,2043
+locality,Chedda Nagar,691
+locality,Sewri,3324
+locality,Beturkar Pada,478
+locality,Rasayani,2920
+locality,Sector 16 A,3163
+locality,Ghodbander,1108
+locality,Mumbra,2298
+locality,Shilgaon,3384
+locality,Vangani,3774
+locality,kanjurmarg west,4072
+locality,Sahkar Nagar,3014
+locality,Titwala,3678
+locality,Khar Danda,1732
+locality,Anushakti Nagar,217
+locality,Sector 22 Kamothe,3195
+locality,Badlapur West,316
+locality,Karjat,1655
+locality,Sector 30 Kharghar,3214
+locality,Desale Pada,865
+locality,Owale,2582
+locality,Bhiwandi,515
+locality,Sector 19 Ulwe,3179
+locality,Sector 17 Ulwe,3169
+locality,Bhayandar East,511
+locality,Kalbadevi,1558
+locality,Mira Road,2234
+locality,Badlapur East,315
+locality,Sector-9 Ulwe,3278
+locality,New Balaji Nagar,2487
+locality,Sector 21 Kamothe,3188
+locality,Sector-19 Airoli,3270
+locality,Uttan,3737
+locality,LBS Marg,1915
+locality,Ambernath East,146
+locality,Ambarnath,135
+locality,Suvarna Krida,3555
+locality,Additional M.I.D.C,78
+locality,Umerkhadi,3715
+locality,Grant Road,1162
+locality,Ambivali,149
+locality,Murarbaug,2312
+locality,Vikhroli West,3873
+locality,pakhadi,4109
+locality,Nalasopara West,2365
+locality,Saphale,3085
+locality,Nalasopara East,2364
+locality,hiranandani meadows,4054
+locality,hanuman nagar off akurli road near western express highway kandivali west,4050
+locality,kavesar,4076
+locality,Bhoirwadi,518
+locality,Thane west,3625
+locality,"Majiwada,Thane west",2071
+locality,panvel,4110
+locality,hiranandani estate,4053
+locality,G B Road,1040
+locality,Western Express Highway Santacruz East,3972
+locality,KOPERKHAIRANE,1523
+locality,Sector9 Ghansoli,3300
+locality,Kopargaon,1826
+locality,Kopar Khairane Sector 19A,1825
+locality,Koproli,1830
+locality,Sector 5 Ghansoli,3228
+locality,Sector 21 Ghansoli,3187
+locality,dombivli west,4035
+locality,Marine Drive,2157
+locality,Swapna Nagari Mulund West,3556
+locality,Andheri,186
+locality,Sector15 Ghansoli,3283
+locality,St Andrew Rd,3507
+locality,Chunabhatti East,770
+locality,Byculla East,626
+locality,byculla west,4026
+locality,Prabhadevi mumbai,2751
+locality,lower parel west,4089
+locality,worli sea Fase,4144
+locality,Kasar vadavali,1667
+locality,L I C Colony,1912
+locality,Yari Road,3988
+locality,Veera Desai Road,3815
+locality,versova,4135
+locality,DNNagar,806
+locality,juhu versova link road,4063
+locality,Jp road,1496
+locality,Sher E Punjab Colony,3374
+locality,Old Nagardas Road,2561
+locality,Sher E Punjab Society,3375
+locality,Lokhandwala Circle,1963
+locality,Chembur West,700
+locality,Sector5 Kopar Khairane,3296
+locality,Koparkhairane Station Road,1827
+locality,Sector20 Koparkhairane,3289
+locality,Sector2A Kopar Khairane,3290
+locality,Sector3 Ghansoli,3291
+locality,Marol Millitary Road,2162
+locality,Off Carter Road,2547
+locality,Rizvi Complex,2952
+locality,Thakur complex,3611
+locality,Samtanagar Thakur Village,3052
+locality,Saravali Village,3092
+locality,Milan Subway,2225
+locality,Bandstand,381
+locality,Vashi Kopar Khairane Road,3801
+locality,Lokhandwala Township Kandivali East,1965
+locality,Sector 11 Koparkhairane,3148
+locality,Chembur East,698
+locality,Nagpada,2355
+locality,Vile Parle East,3880
+locality,juhu tara,4062
+locality,Jaywant Sawant Road,1466
+locality,Thakur Village Road,3610
+locality,Marol andheri east,2164
+locality,Chakala MIDC,653
+locality,Reclamation,2935
+locality,Marol Andheri east mumbai,2161
+locality,Nargis Dutt Road,2408
+locality,Sector6 Airoli,3297
+locality,nallasopara W,4103
+locality,Ghansoli Gaon,1095
+locality,Bhawani Nagar Society,508
+locality,thakur village kandivali east,4132
+locality,Versova,3842
+locality,Casa Bella Gold,645
+locality,vile parle east,4139
+locality,nahar amrit shakti Chandivali,4102
+locality,10 Sector Number 6 Road,2
+locality,Peddar Road,2690
+locality,Rizvi Complex Chuim,2953
+locality,Almeida Park,124
+locality,10 Sector Number 3 Road,1
+locality,11 Sector Number 6 Road,4
+locality,6 Sector Number 3 Road,33
+locality,Altamount Road,125
+locality,Navpada Vile Parle East,2431
+locality,Jankalyan Malad West,1445
+locality,Sector-16 Ulwe,3266
+locality,JB Nagar Tarun Bharat,1385
+locality,Sector8A Airoli,3299
+locality,karanjade panvel,4073
+locality,Lokhandwala complex,1967
+locality,Malpa Dongri,2094
+locality,Jijamata Colony,1476
+locality,Kalyan,1583
+locality,Juhu Tara Rd,1504
+locality,Near Check Naka,2444
+locality,kandivali west charkop sector 5,4071
+locality,Western Express Highway Kandivali East,3970
+locality,South Avenue,3474
+locality,14 Road,5
+locality,7 Bunglow,36
+locality,Carter Road,644
+locality,Boisar West,573
+locality,Parel Village,2653
+locality,Saki Naka,3031
+locality,Goregaon,1145
+locality,Sector 2 Ulwe,3182
+locality,Mulund,2287
+locality,7 Sector Number 3 Road,37
+locality,Deonar Road,862
+locality,14TH ROAD,6
+locality,Worli Hill Road,3982
+locality,Mount Marry,2271
+locality,J u h u Versova Link Road,1382
+locality,Sector 36 Kamothe,3218
+locality,Hill Road,1289
+locality,Seven Bunglow,3320
+locality,Four Bungalows,1030
+locality,Thakur Village,3609
+locality,St Paul Rd,3510
+locality,St Domnic Rd,3508
+locality,Samata Nagar Thakur Village,3045
+locality,Elphinstone Road,1010
+locality,Sector4 Kopar Khairane,3295
+locality,Sector14 Koparkhairane,3281
+locality,Sector6 Kopar Khairane,3298
+locality,5 Sector Number 6 Road,28
+locality,Waghbil,3934
+locality,Pali Danda Road,2614
+locality,Breach Candy,608
+locality,Saki Vihar Road,3033
+locality,Andheri East Takshila Colony,188
+locality,Marol Vijay Nagar,2163
+locality,Marol,2160
+locality,khadakpada,4078
+locality,Bandstand Road,382
+locality,Mulund East Gavanpada,2290
+locality,90 Feet Road,43
+locality,asha nagar thakur complex kandivali east,4018
+locality,Dattani Park Thakur Village,837
+locality,Sector16 Koparkhairane,3284
+locality,Western Express Highway Goregaon East,3969
+locality,Mindspace,2230
+locality,Dhobhi Ali Charai,899
+locality,Lokhandwala Township,1964
+locality,Borivali West Old MHB Colony,599
+locality,gokuldham,4046
+locality,Lokhandwala Twp,1966
+locality,Thane diva,3624
+locality,Naigaon West,2358
+locality,Sector 12 Kharghar,3152
+locality,Shimpoli,3387
+locality,Tilak Nagar Mumbai,3662
+locality,Vishnu Nagar,3908
+locality,Anjurdive,202
+locality,Century Bazaar,649
+locality,Sai Section,3018
+locality,Diva Gaon,914
+locality,vakola santacuz e,4133
+locality,Vishveshwar Nagar,3910
+locality,Orlem Lourdes Colony,2577
+locality,Anand Nagar Thane West,174
+locality,Kemps Corner,1710
+locality,Manpada,2140
+locality,Haranwali,1249
+locality,Collectors Colony Chembur,781
+locality,8 Sector Number 3 Road,40
+locality,Worli South Mumbai,3983
+locality,juhu lane,4061
+locality,Shastri Nagar Road Number 2,3364
+locality,Nahur East,2356
+locality,Carmicheal Road,643
+locality,Mirashi Nagar Kanjurmarg East,2237
+locality,Asalpha,232
+locality,Vitthalwadi,3918
+locality,Sector 11 Kharghar,3147
+locality,Ekta Nagar,998
+locality,Sector17 Kopar Khairane,3285
+locality,Airoli Gaothan,97
+locality,Kakartale,1555
+locality,Sabe Gaon,2991
+locality,Jankalyan Nagar,1446
+locality,Chincholi Bunder,738
+locality,Kolshet Road Thane West,1800
+locality,Kandivali West Charkop,1626
+locality,Gulmohar Road,1190
+locality,Gauripada,1084
+locality,Kapurbawadi,1645
+locality,Bhoiwada Kalyan,519
+locality,Mahim West,2058
+locality,Manish Nagar Four Bungalows,2129
+locality,23 Sector Number 3 Road,15
+locality,Walkeshwar,3943
+locality,Ghodbunder thane west,1110
+locality,New Prabhadevi Marg,2506
+locality,Sayani Road,3131
+locality,Forjett Hill Road,1028
+locality,Dharamveer Nagar,893
+locality,Sindhi Society Chembur,3433
+locality,Four Bunglows,1031
+locality,Thane,3621
+locality,jvpd scheme,4065
+locality,Chunabhatti,769
+locality,Adharwadi,80
+locality,Nehru Nagar Kurla,2460
+locality,Kalher Bhiwandi Road,1564
+locality,Near Mhada Colony Mulund E,2445
+locality,Gorai 1,1144
+locality,Military Road,2227
+locality,Sector-14 Koparkhairane,3262
+locality,4 Bunglows,26
+locality,Juinagar,1506
+locality,Union Park,3717
+locality,Bevarly Park,479
+locality,Sector 35I Kharghar,3217
+locality,Sector 36 Kharghar,3219
+locality,Sector34 A Kharghar,3292
+locality,Sector 21 Kharghar,3189
+locality,Hiranandani Gardens Powai,1297
+locality,Sector9A Vashi,3301
+locality,marol maroshi,4095
+locality,Vakola,3762
+locality,Mira Bhayander E,2233
+locality,26 Sector 15 Road,18
+locality,Sector 9 Kopar Khairane Road,3250
+locality,Sector 16 Vashi,3165
+locality,Sector-14 Sanpada,3264
+locality,Mumbai Highway,2296
+locality,Andheri Kurla Road,189
+locality,Mumbai Goa Highway,2295
+locality,film city road goregaon east,4043
+locality,5th Rd,32
+locality,Sector 44 Seawoods,3225
+locality,Powai Lake,2746
+locality,Madh Marve Road,2008
+locality,MHADA Colony 20,1987
+locality,dadar,4031
+locality,Eastern Express Highway Vikhroli,986
+locality,Turbhe,3702
+locality,Dharavi,894
+locality,Kherwadi,1743
+locality,Charkop Gaon,686
+locality,Sector 11 Vashi,3150
+locality,Sector 9 Vashi,3252
+locality,Ghodbunder Road,1109
+locality,Charkop,685
+locality,Oshiwara,2578
+locality,Lodha Heaven,1959
+locality,Sector 10 Kamothe,3142
+locality,Sector 15 Kharghar,3158
+locality,Sector 19 Kharghar,3177
+locality,Sector35D Kharghar,3293
+locality,Western Express Highway Malad East,3971
+locality,Sector4 Airoli,3294
+locality,Gokhale Road South,1127
+locality,Palghar,2613
+locality,Dhokali,900
+locality,Basant Garden,420
+locality,Evershine Nagar,1019
+locality,Maharashtra Nagar,2045
+locality,Sector 20 Kharghar,3184
+locality,ahimsa marg,4015
+locality,Shastri Nagar Lane 2,3363
+locality,Chikan Ghar,717
+locality,Kalina Shastri Nagar,1570
+locality,Amboli,153
+locality,Valmik Nagar,3767
+locality,Panchamrut Society,2631
+locality,New LIC Colony,2499
+locality,Kanjur Marg West,1629
+locality,Sector14 Sanpada,3282
+locality,P And T Colony,2583
+locality,Hiranandani Meadows,1298
+locality,Majiwada thane,2070
+locality,vasant vihar thane west,4134
+locality,raheja vihar,4116
+locality,Juhu Tara Road,1505
+locality,Juhu Koliwada,1502
+locality,Vithaldas Nagar,3912
+locality,Sector-8A Airoli,3277
+locality,Sector 29C,3210
+locality,Sector 10A,3144
+locality,Insralok Phase 7,1367
+locality,Charkop Sector 8,687
+locality,Sector-6 Airoli,3272
+locality,Sector-7 Kamothe,3273
+locality,Sector 9 Airoli,3248
+locality,24 Sector Number 3 Road,16
+locality,Sector 7,3236
+locality,Shraddhanand Road,3410
+locality,IIT POWAI,1337
+locality,D N Ngr,799
+locality,Khemani Industry Area,1741
+locality,Airoli Sector 20,98
+locality,Kopri Colony,1829
+locality,Bhandup Village Road,491
+locality,Bhakti Park Wadala East,488
+locality,Green World,1176
+locality,Pandurang Budhkar Marg,2639
+locality,Lallubhai Park Road 2,1938
+locality,Sector 14 Vashi,3157
+locality,Bhakti Park,487
+locality,Mahaveer Nagar,2048
+locality,Sector 11 Belapur,3145
+locality,27 Sector 15 Road,19
+locality,Sector-18 Ulwe,3269
+locality,Palm Beach,2622
+locality,Sector 5 Ulwe,3231
+locality,Sector 21 Ulwe,3192
+locality,Tilak Chowk,3659
+locality,Sunil Nagar,3542
+locality,Bhakti Mandir,486
+locality,Mahatma Jyotiba Phule Nagar,2047
+locality,Balrajeshwar Road,363
+locality,Kolshet Road,1799
+locality,Tirandaz,3670
+locality,Khandelwal Layout Extension,1726
+locality,Raheja Complex Road,2847
+locality,Ramgad Nagar,2904
+locality,Kadam Wadi,1540
+locality,Pokhran 2,2733
+locality,Godrej Hill,1124
+locality,Joseph Patel Wadi,1495
+locality,Dighe,907
+locality,Madh,2007
+locality,Upper Govind Nagar,3723
+locality,Dhokali Naka,901
+locality,Vijay Society,3863
+locality,Lokpuram,1969
+locality,azad nagar,4019
+locality,Old MHB Colony Mumbai,2559
+locality,yogi nagar,4145
+locality,chikuwadi,4028
+locality,eksar road,4041
+locality,Kastur Park,1677
+locality,link road borivali west,4087
+locality,Vasant Vihar Complex,3794
+locality,Satya Nagar,3127
+locality,Babhai,303
+locality,Vazira,3810
+locality,Sai Baba Nagar,3017
+locality,Jay Raj Nagar Road,1455
+locality,Devidas Rd,875
+locality,IC Colony Ext,1334
+locality,Sakinaka Andheri east,3034
+locality,New Dindoshi Green Hill Society Mumbai,2492
+locality,kopari,4081
+locality,Nere,2474
+locality,Borivali,595
+locality,andheri lokhndwala,4016
+locality,Andheri West Sahakar Nagar,192
+locality,Majiwada,2069
+locality,Shivdham Complex,3405
+locality,Shilphata Road Thane,3386
+locality,Swastik Park,3559
+locality,Ghatla,1101
+locality,Katemanivali,1681
+locality,Veer Savarkar Nagar,3814
+locality,Manjarli,2133
+locality,DN Nagar Road,805
+locality,New Nagardas Road,2505
+locality,Azad ngr Metro station,275
+locality,Mahakali Cave Road,2036
+locality,Eden Gardens,987
+locality,Govandi East,1153
+locality,Mumbai Nashik Expressway,2297
+locality,Sion Trombay Road,3444
+locality,Deonar Village Road,863
+locality,Sindhi Society,3432
+locality,Gorai,1143
+locality,Tolaram Colony,3680
+locality,RC Marg,2818
+locality,Diva Gaothan,915
+locality,VN Purav Marg,3748
+locality,Syndicate,3563
+locality,Yogidham,4005
+locality,Andheri Railway Station East Middle Overpass,190
+locality,Kalina,1569
+locality,ULWE SECTOR 19,3704
+locality,Hendre Pada,1279
+locality,Sector 19 Nerul,3178
+locality,vile parle,4138
+locality,Amarant Road,131
+locality,Balkum,357
+locality,Manish Nagar,2128
+locality,Oshiwara Park Road,2579
+locality,Bhawani Nagar,507
+locality,Sagarli Gaon,3007
+locality,Kanjurmarg East Nehru Nagar,1632
+locality,Akshar 2,108
+locality,Highland Park,1287
+locality,Sector 15 Vashi,3161
+locality,wakad,4143
+locality,Vile Parle E,3879
+locality,Mandvi,2110
+locality,Amrut Nagar,163
+locality,Vasind,3802
+locality,Kon,1807
+locality,Sector-16 Koparkhairane,3265
+locality,Bhoir Wadi,517
+locality,Jogeshwari Vikhroli Link Road,1487
+locality,Kondivita Road,1822
+locality,Vasai Road east,3787
+locality,Navade,2423
+locality,Padle Gaon,2594
+locality,Sector 21 Nerul,3190
+locality,Katrap,1688
+locality,Eksar Rd,996
+locality,Saki Vihar Complex Road,3032
+locality,Mahavir Nagar,2052
+locality,Sector19 Koper Khairane,3288
+locality,Vazira Naka,3811
+locality,Antop Hill,216
+locality,Chembur Shell Colony,699
+locality,29 Sector 3 Airoli Road,20
+locality,TPS Road,3570
+locality,poonam nagar,4113
+locality,Jambli Galli,1436
+locality,CBD Belapur East,632
+locality,Devidas Cross Lane,874
+locality,Powai Vihar Road,2748
+locality,BANDRA RECLEMATION,285
+locality,Eksar Village,997
+locality,Chandavarkar Road,670
+locality,Sahyadri Nagar,3015
+locality,Sector-12 Kopar Khairane,3261
+locality,New MHB Colony Mumbai,2500
+locality,IC Colony Cross Road Number 6,1333
+locality,Borivali West New Ashok Nagar,598
+locality,malwani malad west,4092
+locality,Saibaba Nagar,3019
+locality,dhanukarwadi,4033
+locality,Gulmohar Cross Road Number 6,1189
+locality,Tembhi Naka Dhobi Ali,3605
+locality,1 Sector Number 3 Road,0
+locality,Powai MHADA Colony,2747
+locality,Bhuleshwar,527
+locality,Ramayan Nagar,2896
+locality,jvlr andheri east,4064
+locality,Mulund West Mumbai,2292
+locality,Ambivli,150
+locality,Rabale Station Road,2831
+locality,Malad West Gaikwad Nagar,2078
+locality,Curry Road Bridge,794
+locality,Linking Road   Santacruz West,1958
+locality,Sector 8 Kopar Khairane Road,3245
+locality,Taloja Phase 1 Road,3582
+locality,Sector 7 Kharghar,3239
+locality,Diva,913
+locality,Bonshet,587
+locality,Khalapur,1723
+locality,Bhoomi Park Phase 2 Road,521
+locality,BKC Bandra,292
+locality,Cusrow Baug Colony,795
+locality,Bapgoan,404
+locality,Khopoli,1752
+locality,Evershine City,1018
+locality,Sector12 Kopar Khairane,3280
+locality,20 Vashi Kopar Khairane Road,13
+locality,Kasheli,1674
+locality,Kalyan Shilphata Road,1587
+locality,Eranjad,1016
+locality,Vadavali Section,3752
+locality,Mulund Check Naka,2288
+locality,Uran,3725
+locality,Asangaon,233
+locality,MSES Colony,1994
+locality,Sector 8 Charkop,3242
+locality,Lallubhai Park Road,1937
+locality,Pankti Co operative Housing Society,2644
+locality,Teli Galli Cross Road,3602
+locality,Vihighar,3859
+locality,Samata nagar,3046
+locality,Press Bazar,2771
+locality,Jacob Circle,1397
+locality,Kunchi Kurve Nagar Kalina,1892
+locality,Oberoi Splendor,2544
+locality,Tejpal Scheme Road Number 3,3598
+locality,Saat Rasta,2989
+locality,Lal Chowki,1936
+locality,Bhangarwadi,493
+locality,J B Nagar,1380
+locality,Sion Koliwada,3443
+locality,Shell Colony Sahakar Nagar,3370
+locality,PARSIK NAGAR,2586
+locality,Maneklal Estate,2112
+locality,Narendra Complex,2406
+locality,Kurar Village,1899
+locality,Kalher,1563
+locality,Mhatre Nagar,2220
+locality,dindoshi,4034
+locality,Shelwadi,3371
+locality,Shahapur,3329
+locality,Paranjape Nagar,2650
+locality,Chakala,652
+locality,Padgha,2592
+locality,old panvel,4108
+locality,new Panvel navi mumbai,4104
+locality,Sector 23 Nerul,3198
+locality,Chandrabai Nagar,680
+locality,Ashoknagar,238
+locality,Kolegaon,1795
+locality,Ramabai Ambedkar Nagar,2885
+locality,Kharghar Sector 34C,1739
+locality,Sector-27 Nerul,3271
+locality,Mundhwa,2299
+locality,Wakad,3938
+locality,Wagholi,3935
+locality,Kothrud,1848
+locality,Yerawada,3999
+locality,Ganj Peth,1072
+locality,Pimple Saudagar,2717
+locality,Hinjewadi,1293
+locality,Dhanori,888
+locality,Nigdi,2520
+locality,Bopkhel,590
+locality,Viman Nagar,3884
+locality,Dhayari,896
+locality,Chakan,654
+locality,Chinchwad,740
+locality,Kharadi,1735
+locality,Kalyani Nagar,1591
+locality,Ravet,2927
+locality,Lohegaon,1962
+locality,Parvati Darshan,2664
+locality,Chikhali,720
+locality,Baner,383
+locality,Pimple Gurav,2715
+locality,Bhosari,522
+locality,Undri,3716
+locality,Dighi,908
+locality,Sus,3554
+locality,Hadapsar,1226
+locality,Sinhgad Road,3440
+locality,Tathawade,3594
+locality,Ambegaon 1,142
+locality,Karve Nagar,1663
+locality,Bavdhan,432
+locality,Warje,3950
+locality,Kondhwa,1817
+locality,Manjari,2130
+locality,Daund,840
+locality,Manjari Budruk,2131
+locality,Wadegaon,3931
+locality,New Sangavi,2511
+locality,Pimpri,2718
+locality,Alandi,115
+locality,Gahunje,1051
+locality,Wadgaon Sheri,3933
+locality,Sopan Baug,3470
+locality,Katraj,1686
+locality,Pimple Nilakh,2716
+locality,Bhawani Peth,509
+locality,Siddharth nagar,3424
+locality,Thergaon,3630
+locality,Talwade,3585
+locality,Tingre Nagar,3668
+locality,Akurdi,111
+locality,Sangamvadi,3061
+locality,Pirangut,2720
+locality,Kasba Peth,1672
+locality,Wanowrie,3946
+locality,Aundh,251
+locality,Balewadi,347
+locality,Handewadi,1240
+locality,New Kalyani Nagar,2497
+locality,Punawale,2780
+locality,Fursungi,1039
+locality,Budhwar Peth,616
+locality,Dhayari Phata,897
+locality,Talegaon Dabhade,3578
+locality,Ambegaon Budruk,143
+locality,Pashan,2672
+locality,Rahatani,2846
+locality,hingne Khurd,4052
+locality,NIBM Annex Mohammadwadi,2327
+locality,Magarpatta,2030
+locality,Wanwadi,3947
+locality,Ghorpadi,1113
+locality,Vadgaon Budruk,3754
+locality,Chandan Nagar,664
+locality,Mahalunge,2040
+locality,Shewalewadi,3377
+locality,Vishrantwadi,3909
+locality,Hinjewadi Phase 1,1294
+locality,Ambegaon Pathar,144
+locality,Koregaon Park,1838
+locality,Manjari Khurd,2132
+locality,Agalambe,87
+locality,Nanded,2377
+locality,Charholi Budruk,684
+locality,Shivane,3404
+locality,Bhugaon,525
+locality,Rasta Peth,2924
+locality,Kondhwa Budruk,1818
+locality,NIBM Annexe,2328
+locality,Mohammed wadi,2249
+locality,Sinhagad Fort,3439
+locality,Perugate,2699
+locality,Morwadi,2263
+locality,Sunarwadi,3538
+locality,Khadakwasla,1717
+locality,Old Sangvi,2566
+locality,Khadki,1718
+locality,Dhankawadi Police Station Road,886
+locality,Erandwane,1015
+locality,Dhaygude Wada,898
+locality,Karegaon,1654
+locality,Bibwewadi,531
+locality,Moshi,2264
+locality,Yashwantnagar,3990
+locality,Fatima Nagar,1026
+locality,Bhukum,526
+locality,Koregaon Bhima,1837
+locality,Deccan Gymkhana,843
+locality,Sheela Vihar Colony,3366
+locality,Sasane Nagar,3112
+locality,Kalewadi,1560
+locality,Warje Malwadi,3951
+locality,Jambhe,1432
+locality,Shukrawar Peth,3416
+locality,Bhegade Aali,513
+locality,Vakil Nagar,3760
+locality,Rambaug Colony,2899
+locality,Sadashiv Peth,2996
+locality,Shaniwar Peth,3350
+locality,Sanaswadi,3055
+locality,bavdhan patil nagar,4020
+locality,Bund Garden,619
+locality,Vikas Nagar,3870
+locality,Gultekdi,1192
+locality,Vadgaon,3753
+locality,Narhe,2409
+locality,Talegaon,3577
+locality,Balaji Nagar,341
+locality,Pimpri Chinchwad,2719
+locality,Mangawadi,2116
+locality,Dattwadi,839
+locality,Ubale Nagar,3705
+locality,DP Road,807
+locality,Shinde Vasti,3388
+locality,Nigdi Sector 24,2521
+locality,Vishal Nagar,3903
+locality,Baramati,411
+locality,Law College Road,1942
+locality,Dange Chowk,824
+locality,Bopodi,591
+locality,Koregaon Park Annexe,1839
+locality,Satara road,3117
+locality,Ghorapdi,1112
+locality,Akurdi Chowk,112
+locality,Dhanakwadi,882
+locality,Pradhikaran Nigdi,2753
+locality,Yamuna Nagar,3985
+locality,Shivtirth Nagar,3407
+locality,Happy Colony,1245
+locality,Somwar Peth,3468
+locality,Ideal Colony,1349
+locality,Chinchwad Gaon,741
+locality,NIBM,2326
+locality,Jambhulwadi Road,1435
+locality,Handewadi Road,1241
+locality,Pisoli Road,2722
+locality,bhusari colony,4023
+locality,Wadgaon Budruk,3932
+locality,Paud Road,2686
+locality,Chikhali Sector 16,721
+locality,Bhairav Nagar,485
+locality,Dhanukar Colony,889
+locality,Karve Road Kothrud,1665
+locality,Wagholi Road,3937
+locality,Kalewadi Phata PimpriChinchwad,1562
+locality,Adarsh Nagar Kiwale,74
+locality,Kothrud Depot Road,1850
+locality,Vanaz corner,3772
+locality,Ramkrishna Paramhans Nagar,2906
+locality,Bhelkenagar,514
+locality,Chandani Chowk,667
+locality,Eklavya Colony,995
+locality,Dhole Patil Road,902
+locality,Awhalwadi,263
+locality,Kasarwadi,1668
+locality,Satar Nagar,3116
+locality,Lulla Nagar,1974
+locality,Kausar Baugh,1695
+locality,Salunke Vihar,3042
+locality,Vishal Nagar Main,3904
+locality,Kolwadi,1802
+locality,Loni Kalbhor,1971
+locality,Bhusari colony right,530
+locality,Bhusari colony left,529
+locality,Kharadi bypass,1736
+locality,Bharati Vidyapeeth,498
+locality,Market yard,2159
+locality,Kalyani Nagar Annexe,1592
+locality,Wanawadi Gaon,3945
+locality,Dehu Road Cantonment,853
+locality,Dattavadi,838
+locality,Ambegaon PuneMumbai Hwy,145
+locality,Bibwewadi Kondhwa Road,532
+locality,Mamurdi,2100
+locality,Mulshi,2286
+locality,Walvekar Nagar,3944
+locality,BT Kawde,295
+locality,Dhankawadi,885
+locality,Kondhwa Khurd,1820
+locality,Sukhsagar Nagar,3531
+locality,Shikshak nagar,3381
+locality,Pune Satara Road,2784
+locality,Dhankawadi Road,887
+locality,katraj kondhwa road,4075
+locality,Kirkatwadi,1759
+locality,Dhamalwadi Bhekrai Nagar,881
+locality,Boat Club Road,566
+locality,Gururaj Society,1209
+locality,Sector No1 Bhosari,3259
+locality,Shantiban Society,3358
+locality,Teen Hatti Chowk Road,3596
+locality,Sahakar Nagar II,3010
+locality,Mohan Nagar,2251
+locality,Pune Satara Rd,2783
+locality,Bharati Vidyapeeth Campus,499
+locality,Wakad Pune,3940
+locality,Pune Solapur Road,2785
+locality,Taljai Road,3580
+locality,Hadapsar Gaon,1227
+locality,Wagholi Kesnand Wadegaon Road,3936
+locality,Yewalewadi,4004
+locality,Dashrath Nagar Bhekrai Nagar,834
+locality,Raviwar Peth,2930
+locality,Baner Road,386
+locality,Mahalunge Ingale,2041
+locality,Someshwarwadi,3467
+locality,Baner Pashan Link Road,385
+locality,Manjri Village Road,2134
+locality,Laxman Nagar,1944
+locality,Rajas Society,2867
+locality,National Society,2420
+locality,Jambhul,1433
+locality,ITI road,1343
+locality,L&T Labour Colony,1913
+locality,Kokane Mala,1789
+locality,AWHO Hadapsar Colony,55
+locality,Jagdishnagar,1410
+locality,Subhas Nagar,3517
+locality,Pandhari Nagar,2638
+locality,Kranti Nagar,1866
+locality,Baner Hill Trail,384
+locality,Santhosh Nagar,3078
+locality,Wakad Chowk Road,3939
+locality,Shivajinagar,3398
+locality,Elite 27,1007
+locality,Narayan Peth,2394
+locality,Madhav Nagar,2013
+locality,Vardhaman Township Sasane Nagar,3782
+locality,Dahanukar Colony,814
+locality,MAE Campus,1977
+locality,Vittalvadi,3915
+locality,SNBP School Road,2985
+locality,Blue Ridge   Paranjpe Schemes,564
+locality,Vishal nagar square new dp road,3905
+locality,Tilekar Nagar,3665
+locality,Om Colony,2571
+locality,Model Colony,2241
+locality,Prabhat Road,2752
+locality,Bhandarkar Road,489
+locality,paud,4112
+locality,Tulaja Bhawani Nagar,3700
+locality,Skylights Road,3455
+locality,EON Free Zone,968
+locality,Pune Station,2786
+locality,Salunke Vihar Road,3043
+locality,Sainath Nagar,3023
+locality,Megapolis Sunway Internal Road,2206
+locality,Vascon Paradise Society,3799
+locality,Mukai Nagar,2278
+locality,Ramtekdi Industrial Area,2910
+locality,kesnand,4077
+locality,Vadgoan Sheri Rajendri Nagar,3756
+locality,Sakal Nagar,3028
+locality,Siddartha Nagar,3422
+locality,Phase 2,2705
+locality,Pisoli,2721
+locality,Nerhe,2478
+locality,Balewadi High Street,349
+locality,Kondhwa Budrukh,1819
+locality,Balewadi Phata,350
+locality,Madhala Vada,2009
+locality,Salisbury Park,3039
+locality,Swargate,3557
+locality,Jambhulwadi,1434
+locality,Pune Cantonment,2781
+locality,Marunji,2167
+locality,Munjaba Vasti,2309
+locality,Mukesh Nagar,2279
+locality,KondhwaUndriSaswad Road,1821
+locality,Marvel Fria Road,2176
+locality,Tapodham,3589
+locality,Sindhi Colony,3430
+locality,Gokhalenagar,1128
+locality,Anand Tirth Nagar,177
+locality,Guruwar Peth,1211
+locality,Kalwad,1582
+locality,Baderaj Colony,313
+locality,Shedge Vasti PimpriChinchwad,3365
+locality,Marunji Road,2168
+locality,Satavwadi,3118
+locality,Nimbalkar Nagar Lohgaon,2527
+locality,Adarsh Nagar Lohgaon,75
+locality,Varsha Park Society,3783
+locality,Vallabh Nagar,3765
+locality,Maan,1996
+locality,Gulab Nagar Pune,1186
+locality,BT Kawade Road,294
+locality,Satyapuram Co operative Housing Society,3128
+locality,Bodkewadi,569
+locality,New DP Road,2491
+locality,Murlidhar Housing Society,2313
+locality,Pan Card Club Road,2626
+locality,New Sanghvi,2512
+locality,Sanjay Park,3064
+locality,chintamani park,4029
+locality,Munjaba Basti,2308
+locality,Sharad Nagar,3361
+locality,Mundhwa Kharadi Road,2300
+locality,Varale Pune,3780
+locality,Kanhe,1627
+locality,Indryani nagar,1365
+locality,Tukaram Nagar,3699
+locality,Kalewadi Pandhapur Road,1561
+locality,Mayur Nagari,2188
+locality,Senapati Bapat Road,3313
+locality,Lokmanya Nagar,1968
+locality,Jangali Maharaj Road,1441
+locality,Kondwa khurd road,1823
+locality,Purnanagar,2798
+locality,Balewadi Gaon,348
+locality,Empire Estate Phase 1,1011
+locality,Shree Sidhivinayaka Nagri,3412
+locality,Sector 27 Pradhikaran,3206
+locality,Ganesh Peth,1066
+locality,Siddharth Residency,3423
+locality,Bakhori,336
+locality,Kolte Patil,1801
+locality,Uruli Devachi,3728
+locality,Sky Water Road,3454
+locality,Sadhu Vaswani Chowk,3000
+locality,mandai,4093
+locality,Vadgaon Sheri,3755
+locality,Porwal Rd,2739
+locality,Amar Srushti,129
+locality,Phursungi Village Road,2711
+locality,Dehu,851
+locality,Shikrapur,3380
+locality,Blue Ridge Approach Road,565
+locality,Bopdev Ghat,589
+locality,Veerbhadra Nagar,3819
+locality,Nigdi Sector 26,2522
+locality,sinhagad road,4126
+locality,Dapodi,827
+locality,Kunal Icon Road,1891
+locality,Mukund Nagar,2282
+locality,aranyeshwar,4017
+locality,maharshi nagar,4091
+locality,Padmavati,2597
+locality,Tilak Road,3663
+locality,Shankarseth Road,3352
+locality,Shankar Sheth Rd,3351
+locality,Shree Sant Eknath Nagar,3411
+locality,Yashwantrao Chavan Nagar,3991
+locality,Chhatrapati Sambhaji Nagar,713
+locality,Pashan Sus Road,2673
+locality,Pune Nagar Road,2782
+locality,Manaji Nagar,2101
+locality,Deshmukhwadi,866
+locality,Kutwal Colony,1909
+locality,Garmal,1078
+locality,Kale Padal,1559
+locality,Shindenagar,3389
+locality,Wakadkar Wasti,3941
+locality,Narayangaon,2401
+locality,Kaspate Vasti,1675
+locality,Kaspate Vasti Road,1676
+locality,Vanaz Corner Pedestrian Crossing,3771
+locality,Maval,2185
+locality,Pratik Nagar,2766
+locality,Kothrud Bus Stand Road,1849
+locality,Yashwant Nagar,3989
+locality,Udyog Nagar,3707
+locality,Gujrat Colony,1185
+locality,Ghule Vasti,1115
+locality,Sector 29,3209
+locality,Lonikand,1972
+locality,Old Sanghvi,2565
+locality,Dattanagar,836
+locality,Ranjangaon,2915
+locality,Laxmi Chowk Road,1946
+locality,Bhau Patil Road,506
+locality,Bhumkar Das Gugre Road,528
+locality,Marutirao Gaikwad Nagar,2175
+locality,Mundhwa Manjari Road,2301
+locality,Saswad,3114
+locality,Indrayani Nagar Sector 2,1364
+locality,Walhekarwadi Chinchwad,3942
+locality,Jawalkar Nagar,1454
+locality,Olkaiwadi,2570
+locality,Kolhewadi,1796
+locality,Kiwale,1771
+locality,Wadarvadi,3930
+locality,Shirgaon,3393
+locality,Junnar,1508
+locality,Sant tukaram Nagar,3072
+locality,Rajgurunagar,2870
+locality,Mangdewadi,2117
+locality,Gananjay Society Chaitanya Nagar,1058
+locality,wadebolhai,4142
+locality,Somatane,3466
+locality,Nanded Phata,2378
+locality,Karve Road Erandwane,1664
+locality,Vitthal Wadi,3917
+locality,Giridhar Nagar,1120
+locality,Dadachi Wasti,811
+locality,Kondhawe Dhawade,1816
+locality,Kamshet,1611
+locality,bhekarai nagar,4022
+locality,Modi Colony,2245
+locality,Chandkhed,672
+locality,Shirur,3394
+locality,Yerwada Village,4000
+locality,Valvan Lonavla,3768
+locality,Dehu Phata,852
+locality,Pangoli,2642
+locality,Digambar Nagar,905
+locality,Hingne Budrukh,1292
+locality,Bakori Road,337
+locality,Tukai Darshan,3697
+locality,Mohan Nagar MIDC,2252
+locality,Indrayani Nagar,1363
+locality,Talegaon Dhamdhere,3579
+locality,Renuka Nagar,2942
+locality,Gananjay Society,1057
+locality,Aundh Gaon,252

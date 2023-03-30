@@ -1,0 +1,17 @@
+{
+  "layout_type": {
+    "data-type": "integer",
+    "Encoding": {
+      "BHK": "1",
+      "RK": "0"
+    }
+  },
+  "furnish_type": {
+    "data-type": "integer",
+    "Encoding": {
+      "Furnished": "0",
+      "Semi-Furnished": "1",
+      "Unfurnished": "2"
+    }
+  }
+}
