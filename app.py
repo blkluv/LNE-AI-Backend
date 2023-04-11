@@ -42,3 +42,11 @@ def predict():
         return jsonify({"prediction": res[0]})
     except Exception as e:
         return jsonify({"error": str(e)})
+
+
+@app.after_request
+def add_headers(response):
+    response.headers.add('Access-Control-Allow-Origin', 'https://ai.luvnft.com')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+    return response
